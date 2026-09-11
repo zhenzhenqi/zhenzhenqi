@@ -3,7 +3,7 @@ layout: default
 title: Zhenzhen Qi
 ---
 <section id="pages">
-  <li><a href="{{ '/about/' | relative_url }}">About / CV</a></li>
+  <li><a href="{{ '/about.html' | relative_url }}">About / CV</a></li>
   <li class="mobile-only"><a href="#project-list-anchor">Projects</a></li>
 </section>
 
@@ -31,3 +31,4 @@ title: Zhenzhen Qi
   </div>
   <div class="col" id="right"></div>
 </div>
+

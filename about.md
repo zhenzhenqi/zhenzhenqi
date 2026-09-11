@@ -1,9 +1,10 @@
-<br>
-layout: main-single-nav
+---
+layout: main
 title: About
 order: 6
 category: about
-<br>
+permalink: /about.html
+---
 
 
 ### QI Zhenzhen
