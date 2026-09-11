@@ -5,17 +5,17 @@ permalink: /writing/machine-as-memory-as-orientation-as-condition/
 ---
 
 
-<p>Book Chapter. Publication: <a href="https://books.google.com/books/about/Counterstructural_Commons.html?id=F7IO0gEACAAJ"><em>Counterstructural Commons</em></a>, May 2026.</p>
-<p>Publisher: Rhizome (2026)</p>
-<p>ISBN: 9798996077601</p>
-<p>Editors: [Bri Griffin](https://www.google.com/search?tbo=p&tbm=bks&q=inauthor:%22Bri+Griffin%22&source=gbs_metadata_r&cad=2), [Cindy Hernandez Mathis](https://www.google.com/search?tbo=p&tbm=bks&q=inauthor:%22Cindy+Hernandez+Mathis%22&source=gbs_metadata_r&cad=2) </p>
-<p>Contributors: Michael Connor, Mozilla Foundation, Michael Candy, Beck Haberstroh, Shakti Mb, Ari J. Melenciano, Ramsey Nasser, Zhenzhen Qi, Yang Wang, Steven Jos Phan, Chris Woebken | 
-<p>Subjects:[Art](https://www.google.com/search?tbo=p&tbm=bks&q=subject:%22Art%22) › [General](https://www.google.com/search?tbo=p&tbm=bks&q=subject:%22Art+General%22)</p>
+<p>Book Chapter. Publication: <a href="[https://books.google.com/books/about/Counterstructural_Commons.html?id=F7IO0gEACAAJ](https://books.google.com/books/about/Counterstructural_Commons.html?id=F7IO0gEACAAJ)"><em>Counterstructural Commons</em></a>, May 2026.</p>
 
-<br>
+<p>Editors: Bri Griffin, Cindy Hernandez Mathis</p>
+<p>Contributors: Michael Connor, Mozilla Foundation, Michael Candy, Beck Haberstroh, Shakti Mb, Ari J. Melenciano, Ramsey Nasser, Zhenzhen Qi, Yang Wang, Steven Jos Phan, Chris Woebken</p>
+<p>Publisher: Rhizome, 2026</p>
+<p>ISBN: 9798996077601</p>
+<p>Subjects: Art › General</p>
 <p>Summary: Examines computational architecture not merely as a tool or storage mechanism, but as an active infrastructure that conditions collective memory, spatial/social orientation, and human agency.</p>
 <p>Residency Context: Developed in conjunction with the Counterstructural Commons Residency (Rhizome × Mozilla Foundation, Spring 2026).</p>
-<p>Connected Output: Presented as artist talk, "The Unglued Library" at the New Museum, NY (Co-organized by the Mozilla Foundation & Rhizome, 2026).</p>
+<p><img src="{{ '/assets/imported/writing/machine-as-memory-as-orientation-as-condition/header.webp' | relative_url }}" alt=""></p>
+<p>Connected Output: Presented as artist talk, "The Unglued Library" , at the New Museum, NY (Co-organized by the Mozilla Foundation & Rhizome, 2026).</p>
 
 <p><img src="{{ '/assets/imported/writing/machine-as-memory-as-orientation-as-condition/header.webp' | relative_url }}" alt=""></p>
 <h2 id="part-i-the-library">Part I. The Library</h2>
