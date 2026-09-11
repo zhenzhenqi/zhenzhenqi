@@ -4,25 +4,20 @@ title: Machine as Memory as Orientation as Condition
 permalink: /writing/machine-as-memory-as-orientation-as-condition/
 ---
 
-| Title | Counterstructural Commons | 
-| :--- | :--- | --- |
-| Editors | [Bri Griffin](https://www.google.com/search?tbo=p&tbm=bks&q=inauthor:%22Bri+Griffin%22&source=gbs_metadata_r&cad=2), [Cindy Hernandez Mathis](https://www.google.com/search?tbo=p&tbm=bks&q=inauthor:%22Cindy+Hernandez+Mathis%22&source=gbs_metadata_r&cad=2) | 
-| Contributors | Michael Connor, Mozilla Foundation, Michael Candy, Beck Haberstroh, Shakti Mb, Ari J. Melenciano, Ramsey Nasser, Zhenzhen Qi, Yang Wang, Steven Jos Phan, Chris Woebken | 
-| Publisher | Rhizome, 2026 | 
-| ISBN | 9798996077601 | 
-| Subjects | [Art](https://www.google.com/search?tbo=p&tbm=bks&q=subject:%22Art%22) › [General](https://www.google.com/search?tbo=p&tbm=bks&q=subject:%22Art+General%22) |
 
-<p><img src="{{ '/assets/imported/writing/machine-as-memory-as-orientation-as-condition/header.webp' | relative_url }}" alt=""></p>
-<p>Published in <a href="https://books.google.com/books/about/Counterstructural_Commons.html?id=F7IO0gEACAAJ"><em>Counterstructural Commons</em></a> as a chapter (Rhizome), May 2026.</p>
+<p>Book Chapter. Publication: <a href="https://books.google.com/books/about/Counterstructural_Commons.html?id=F7IO0gEACAAJ"><em>Counterstructural Commons</em></a>, May 2026.</p>
+<p>Publisher: Rhizome (2026)</p>
+<p>ISBN: 9798996077601</p>
+<p>Editors: [Bri Griffin](https://www.google.com/search?tbo=p&tbm=bks&q=inauthor:%22Bri+Griffin%22&source=gbs_metadata_r&cad=2), [Cindy Hernandez Mathis](https://www.google.com/search?tbo=p&tbm=bks&q=inauthor:%22Cindy+Hernandez+Mathis%22&source=gbs_metadata_r&cad=2) </p>
+<p>Contributors: Michael Connor, Mozilla Foundation, Michael Candy, Beck Haberstroh, Shakti Mb, Ari J. Melenciano, Ramsey Nasser, Zhenzhen Qi, Yang Wang, Steven Jos Phan, Chris Woebken | 
+<p>Subjects:[Art](https://www.google.com/search?tbo=p&tbm=bks&q=subject:%22Art%22) › [General](https://www.google.com/search?tbo=p&tbm=bks&q=subject:%22Art+General%22)</p>
 
-
+<br>
 <p>Summary: Examines computational architecture not merely as a tool or storage mechanism, but as an active infrastructure that conditions collective memory, spatial/social orientation, and human agency.</p>
-
 <p>Residency Context: Developed in conjunction with the Counterstructural Commons Residency (Rhizome × Mozilla Foundation, Spring 2026).</p>
-
 <p>Connected Output: Presented as artist talk, "The Unglued Library" at the New Museum, NY (Co-organized by the Mozilla Foundation & Rhizome, 2026).</p>
 
-
+<p><img src="{{ '/assets/imported/writing/machine-as-memory-as-orientation-as-condition/header.webp' | relative_url }}" alt=""></p>
 <h2 id="part-i-the-library">Part I. The Library</h2>
 <p>Imagine a dark, massive library where the books are glued to the shelves. The library has a mechanical track on the floor, and a robot arm fixed onto it. Visitors walk in with a flashlight which they can use to retrieve the books. They shine the light on a shelf labeled with the topic of their interest. Say, when light hits the &ldquo;Double&rdquo; shelf, a robot arm automatically &ldquo;grabs&rdquo; the book for you. But because the books are glued to the shelves. Instead of grabbing the original copy the robot arm photocopies the nearest book and hands it to you. The model treats the word &ldquo;Double&rdquo; as a coordinate. It has no skin in the game—if the library burns down, the robot arm doesn&rsquo;t care. It is just a sensor-trigger-actuator loop. The mechanism lacks the ability to be destroyed or changed in a way that matters to its own survival. The original book stays exactly where it is, perfectly glued, ready for the next person to &ldquo;ping&rdquo; it. The shelves themselves never change, no matter how many books the robot &ldquo;grabs&rdquo; for you. The &ldquo;ping&rdquo; is a one-way street, the &ldquo;light&rdquo; originates from the human, while the machine provides the &ldquo;geometry&rdquo; for it to move through. The machine doesn&rsquo;t have to &ldquo;stand behind&rdquo; what it gave you, because it didn&rsquo;t choose that book; the physics of your &ldquo;ping&rdquo; simply forced that specific photocopied result. The machine &ldquo;stands behind&rdquo; nothing.</p>
 <p>One day, a mysterious person walks into the library with a bottle of potion. He pours the potion over all the books, which un-glues the books from the shelf. Since that day, when a visitor shines the flashlight towards the shelf, the robot grabs the actual copy of the book on the shelf. Moreover, if the visitor has a note about that book, the robot will scribble those notes on it, and re-glues it back in a different section, remapping the internal pathways of the books to better mirror the specific context change of the books. The robot finally has a trace of its interaction, because the &ldquo;glue is still wet.&rdquo;</p>
