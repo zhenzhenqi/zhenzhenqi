@@ -1,29 +1,31 @@
 ---
 layout: default
 ---
+<section id="pages">
+  <li><a href="{{ '/' | relative_url }}">Home</a></li>
+  <li class="mobile-only"><a href="#project-list-anchor">Projects</a></li>
+</section>
 
-{% include nav1.html %}
+<header>
+  <nav class="navbar">
+    <ul><li><a href="{{ '/' | relative_url }}">Zhenzhen Qi</a></li></ul>
+  </nav>
+</header>
 
-
-{% include nav2.html %}
-
-
-
-<!-- CONTENT -->
-<div id="content" class="home-col" post-title="{{ page.title }}" post-category="{{ page.category }}">
-  <div id="content-container">
-    <p class="meta">
-
-    {% if page.event_datetime %}
-      <span class="meta-title">Date&Time</span>:: {{ page.event_datetime }}
-    {% endif %}
-    {% if page.event_location %}
-      <br><span class="meta-title">Location</span>:: {{ page.event_location }}
-      <hr>
-    {% endif %}
-
-  </p>
-
-    {{ content }}
+<div class="row">
+  <div class="col" id="left">
+    {% include project-list.html %}
   </div>
+  <div class="col" id="center">
+    <main id="content">
+      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+      {{ content }}
+    </main>
+    <div class="mobile-only" id="project-list-anchor">
+      <hr>
+      <div class="mobile-project-heading">PROJECT LIST:</div>
+      {% include project-list.html %}
+    </div>
+  </div>
+  <div class="col" id="right"></div>
 </div>
