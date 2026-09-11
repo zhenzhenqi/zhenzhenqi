@@ -1,17 +1,17 @@
----
+<br>
 layout: main-single-nav
 title: About
 order: 6
 category: about
----
+<br>
 
 
-# QI Zhenzhen
+## QI Zhenzhen
 
 **Assistant Professor of Digital Media & Design**  
 *University of Connecticut* | [zhenzhen.qi@uconn.edu](mailto:zhenzhen.qi@uconn.edu)
 
----
+<br>
 
 ## Biography
 
@@ -19,7 +19,7 @@ category: about
 
 Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. Her computational art has been presented by leading cultural curatorial institutions including Ars Electronica, Rhizome at the New Museum, and Power Station of Art. She also co-founded the [Pluralistic AI Lab](https://pluralistic-ai.github.io/lab/), which focuses on reimagining AI interfaces and architectures to move beyond "monolithic" single-person chatbots.
 
----
+<br>
 
 ## Publications & Writing
 
@@ -39,7 +39,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 
 * **2017** — *"Towards A Critique Culture in New Media Education,"* *Art School Critique 2.0*, Ragged Sky Press (Annandale/Princeton, NY).
 
----
+<br>
 
 ## Invited Talks & Conference Presentations
 
@@ -58,7 +58,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 * **2024** — **Guest Lecturer**, *"Reorient Virtuality,"* Mason Gross School of the Arts, Rutgers University.
 * **2023** — **Presenter**, *"Curators at Work,"* International Studio & Curatorial Program (ISCP), New York, NY.
 
----
+<br>
 
 ## Grants, Awards & Collections
 
@@ -74,7 +74,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 * **01/2020** — **Grant Recipient**, *Too Art, Too Game*, Brooklyn Arts Council
 * **09/2016** — **Macy Research Fellowship**, Teachers College, Columbia University
 
----
+<br>
 
 ## Selected Exhibitions
 
@@ -115,7 +115,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 * **05/2016** — *The Mind Ocean*, "Calm Before/After the Storm", BHQFU Gallery, Brooklyn, NY
 * **08/2015** — *Zero*, Governors Island Art Fair, Governors Island, New York, NY
 
----
+<br>
 
 ## Residencies & Professional Memberships
 
@@ -127,7 +127,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 * **2019 – 2020** — **Member**, NEW INC, New Museum, New York, NY
 * **Spring 2015** — **Resident Artist**, Laboratory Residency, Spokane, WA
 
----
+<br>
 
 ## Selected Interviews & Press
 
