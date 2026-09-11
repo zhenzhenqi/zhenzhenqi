@@ -6,14 +6,14 @@ category: about
 <br>
 
 
-## QI Zhenzhen
+### QI Zhenzhen
 
 **Assistant Professor of Digital Media & Design**  
 *University of Connecticut* | [zhenzhen.qi@uconn.edu](mailto:zhenzhen.qi@uconn.edu)
 
 <br>
 
-## Biography
+### Biography
 
 **Zhenzhen Qi** is an educator, researcher, artist, and technologist whose work examines experimental videogames as a mode of **Collective Artificial Intelligence (CAI)**. Her research and creative practice investigate the cultural, political, and educational effects of computation through software, interactive media, installation, and critical writing. 
 
@@ -21,7 +21,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 
 <br>
 
-## Publications & Writing
+### Publications & Writing
 
 * **Avijit Ghosh, Afifah Kashif, Isabelle Kohout, and Zhenzhen Qi**  
   *"Beyond the Monolithic Interface: A Research Agenda for Plural Conversational AI."*  
@@ -41,7 +41,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 
 <br>
 
-## Invited Talks & Conference Presentations
+### Invited Talks & Conference Presentations
 
 * **2026** — **Reader**, *SIGGRAPH Asia 2026*, Kuala Lumpur, Malaysia.
 * **2026** — **Invited Presenter**, *"The Unglued Library,"* *Counterstructural Commons*, New Museum, New York, NY (Co-organized by Mozilla Foundation and Rhizome).
@@ -60,7 +60,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 
 <br>
 
-## Grants, Awards & Collections
+### Grants, Awards & Collections
 
 * **04/2026** — **School of Fine Arts Research Grant** ($9,000 USD), University of Connecticut  
   *Project:* **Co·Agents: The Filipino Diaspora Pilot** – A Multi-Agent System for Cross-Cultural Democratic Deliberation
@@ -76,7 +76,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 
 <br>
 
-## Selected Exhibitions
+### Selected Exhibitions
 
 * **04/2026** — *Go to Sea*, "Zone of Nowhere", Reflexion Gallery, 798 Art District, Beijing, China
 * **12/2025** — *Other Spring*, Bay Area Art and Technology Triennial, City Campus Art Museum, Guangzhou, China
@@ -117,7 +117,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 
 <br>
 
-## Residencies & Professional Memberships
+### Residencies & Professional Memberships
 
 * **Spring 2026** — **Resident**, Counterstructural Commons Residency, Rhizome × Mozilla Foundation, New York, NY
 * **Spring 2024** — **Resident**, Networked World, co-matter, Berlin, Germany
@@ -129,7 +129,7 @@ Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. 
 
 <br>
 
-## Selected Interviews & Press
+### Selected Interviews & Press
 
 * **02/2024** — *"Interview with zzyw,"* Eyebeam.
 * **10/2022** — *"A Conversation with Art and Research Collective zzyw: Is Game-like Algorithm Art the Future?"* ArtNet, China.
