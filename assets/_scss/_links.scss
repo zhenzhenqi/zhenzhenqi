@@ -1,0 +1,32 @@
+a {
+  text-decoration: none;
+  color: white;
+  background-color: black;
+}
+/* unvisited link */
+a:link {
+  // color: $accent-color;
+  
+}
+/* visited link */
+a:visited {
+  // color: $accent-color;
+}
+/* mouse over link */
+a:hover {
+  background-color: cadetblue;
+}
+/* selected link */
+a:active {
+  // color: $accent-color;
+}
+
+a.selected {
+  // font-weight: 900;
+  background: white;
+  color: $text-color;
+  font-size: $fontsize-normal * 1.5;
+  font-weight: bold;
+  @include title-text-styling;
+  // padding: 0 5px;
+}

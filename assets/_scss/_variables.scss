@@ -1,0 +1,24 @@
+// font stuff!
+$font: Helvetica, Arial, sans-serif;
+$fontsize-base: 13px;
+$fontsize-normal: 1em;
+$fontsize-small: 0.8em;
+
+// colors!!
+$accent-color: adjust-color(blue, $lightness: -14%);
+$accent-accent-color: adjust-color(green, $lightness: -10%);
+$text-color: #000;
+$background-color: #fff;
+
+
+// scroll bar stuff
+$scrollbar-width: 10px;
+$scrollbar-background-color: none;
+$scrollbar-handle-color: $accent-color;
+$scrollbar-handle-hover-color: $text-color;
+
+
+@mixin title-text-styling {
+  letter-spacing: -0.065em;
+  font-weight: bold;
+}

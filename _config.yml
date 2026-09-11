@@ -1,0 +1,20 @@
+url: "https://zhenzhenqi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/zhenzhenqi" # the subpath of your site, e.g. /blog
+title: "Zhenzhen Qi" # the name of your site, e.g. ACME Corp.
+permalink: /:categories/:title
+
+sass:
+    style: compressed
+    sass_dir: assets/_scss
+
+gems:
+  - jekyll-babel
+
+markdown:    kramdown
+highlighter: rouge
+
+# Markdown Processors
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
