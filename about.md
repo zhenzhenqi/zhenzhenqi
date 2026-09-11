@@ -6,14 +6,6 @@ category: about
 ---
 
 
----
-layout: main-single-nav
-title: About
-order: 6
-category: about
-author: QI Zhenzhen
----
-
 # QI Zhenzhen
 
 **Assistant Professor of Digital Media & Design**  
