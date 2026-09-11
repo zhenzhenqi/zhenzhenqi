@@ -13,7 +13,7 @@ title: Zhenzhen Qi
   </nav>
 </header>
 
-<div class="row">
+<div class="row two-panel-row">
   <div class="col" id="left">
     {% include project-list.html %}
     <footer class="site-footer">&copy;Zhenzhen Qi 2026 | All Rights Reserved</footer>

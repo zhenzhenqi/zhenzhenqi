@@ -65,11 +65,10 @@ ul, ol { margin: 0; }
 #center #content th { font-family:"Space Mono", Helvetica, Arial, sans-serif; font-weight:400; }
 #right { flex:2 1 100px; }
 
-/* The CV uses the same two-panel interaction as the project index: the
-   project list stays on the left and the selected page fills the right. */
-.about-row #left { flex:0 0 50%; box-sizing:border-box; }
-.about-row #center { flex:1 1 50%; box-sizing:border-box; border-right:0; }
-.about-row #right { display:none; }
+/* Two-panel pages keep the project list on the left and content on the right. */
+.two-panel-row #left { flex:0 0 50%; box-sizing:border-box; }
+.two-panel-row #center { flex:1 1 50%; box-sizing:border-box; border-right:0; }
+.two-panel-row #right { display:none; }
 
 #pages { position:fixed; top:0; margin:3.5rem 1rem 1rem; border:1px solid #000; background-color:#c4cac8; z-index:100; }
 #pages li { list-style:none; padding:3px 5px; }
