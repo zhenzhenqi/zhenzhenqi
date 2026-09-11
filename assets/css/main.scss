@@ -60,6 +60,9 @@ ul, ol { margin: 0; }
 #center #content p { line-height:1.3em; }
 #center #content img { width:100%; height:auto; }
 #center #content h1 { font-size:1.35rem; margin-top:1.25rem; }
+#center #content table { width:100%; border-collapse:collapse; margin-top:1.5rem; }
+#center #content th, #center #content td { padding:.45rem .55rem; border:1px solid #1b1818; text-align:left; vertical-align:top; }
+#center #content th { font-family:"Space Mono", Helvetica, Arial, sans-serif; font-weight:400; }
 #right { flex:2 1 100px; }
 
 #pages { position:fixed; top:0; margin:3.5rem 1rem 1rem; border:1px solid #000; background-color:#c4cac8; z-index:100; }
