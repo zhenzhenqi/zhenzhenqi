@@ -39,3 +39,9 @@ To approach the content of the course and creative opportunities presented with 
 To complete the assignments by scheduled due dates
 
 <h3>Selected Student Works</h3>
+<p>Echoes of Home is an immersive experience that explores the ideas of home, displacement, and belonging. Using interactive digital environments, real-time game engine technology, and AI-driven interaction, the project creates virtual spaces that evoke memory and emotion — inviting viewers to reflect on their own experiences and definitions of home.
+
+At its core, Echoes of Home transforms digital space into a site for introspection and connection. While physical homes may be impermanent, an authentic inner home can be reclaimed and nurtured—a truth that endures through resilience, memory, and imagination.</p>
+
+<p>*Echoses of Home* won GameFest 2026, Best of Visual Narrative Award, and was selected as part of the *Pleasure Engineered* group exhibition at Accent Sisters Gallery in New York City in April 2026. The exhibition and the work was also featured by [Cultbytes](https://cultbytes.com/pleasure-engineered-mostly-captures-the-joy-of-a-i/)</p>
+
