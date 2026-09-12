@@ -20,10 +20,10 @@ Art director: Paloma Moniz
 
 
 <img src="{{ '/assets/imported/writing/networked_worlds/networked1.png' | relative_url }}" alt="cover page">
-<img src="{{ '/assets/imported/writing/networked_worlds/networked2.png' | relative_url }}" alt="cover page">
-<img src="{{ '/assets/imported/writing/networked_worlds/networked3.png' | relative_url }}" alt="cover page">
-<img src="{{ '/assets/imported/writing/networked_worlds/networked4.png' | relative_url }}" alt="cover page">
-<img src="{{ '/assets/imported/writing/networked_worlds/networked5.png' | relative_url }}" alt="cover page">
-<img src="{{ '/assets/imported/writing/networked_worlds/networked6.png' | relative_url }}" alt="cover page">
-<img src="{{ '/assets/imported/writing/networked_worlds/networked7.png' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked2.jpg' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked3.jpg' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked4.jpg' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked5.jpg' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked6.jpg' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked7.jpg' | relative_url }}" alt="cover page">
 <br><br><br><br>
