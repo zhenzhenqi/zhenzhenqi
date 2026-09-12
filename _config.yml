@@ -3,6 +3,9 @@ baseurl: "/zhenzhenqi" # the subpath of your site, e.g. /blog
 title: "Zhenzhen Qi" # the name of your site, e.g. ACME Corp.
 permalink: /:categories/:title
 
+include:
+  - teaching
+
 sass:
     style: compressed
     sass_dir: assets/_scss
