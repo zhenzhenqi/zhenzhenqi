@@ -29,8 +29,8 @@ In her presentation, **"Uncomputable in the Computational World,"** Dr. Qi explo
 
 <br>
 
-<div style="width:100%; aspect-ratio:16/9; margin:1.5rem 0 2rem;">
- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1YAfiqOXqUxfzJ07BxSgvslfVIpvokwpsG60rL5qJcwHOp92p6D_KjJaVgSMJTUIQkUOW3bSB-U1F/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="slide-embed">
+ <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1YAfiqOXqUxfzJ07BxSgvslfVIpvokwpsG60rL5qJcwHOp92p6D_KjJaVgSMJTUIQkUOW3bSB-U1F/pubembed?start=false&loop=false&delayms=3000" title="Uncomputable in the Computational World presentation" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 <p><a href="https://docs.google.com/presentation/d/1CbpQAe7DBFKf7eolYZKCc_oLEUwnKvE9plRnNHFsK0o/edit" target="_blank" rel="noopener noreferrer">Open the presentation in Google Slides</a></p>
