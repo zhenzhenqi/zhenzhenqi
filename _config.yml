@@ -1,5 +1,5 @@
 url: "https://zhenzhenqi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/zhenzhenqi" # the subpath of your site, e.g. /blog
+baseurl: "/zhq23006" # the subpath of your site, e.g. /blog
 title: "Zhenzhen Qi" # the name of your site, e.g. ACME Corp.
 permalink: /:categories/:title
 
