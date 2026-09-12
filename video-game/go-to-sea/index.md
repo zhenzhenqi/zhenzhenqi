@@ -8,7 +8,7 @@ permalink: /video-game/go-to-sea/
 <h3>Exhibition History</h3>
 04-05/2026: Zone of Nowhere, Reflexion Gallery, 798 Art District, Beijing, China
 
-11/2025–03/2026: *Game Om*, THANK, Shanghai, China
+11/2025–03/2026: *Game Om*, TANK, Shanghai, China
 
 07/2024: Electronic Literature Organization (ELO) Virtual Conference and Media Festival
 
