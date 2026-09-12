@@ -9,14 +9,10 @@ permalink: /talk/ucomputational-in-computational-world/
 * **Date & Time:** Thursday, February 15, 2024
 * **Location:** Hilton Chicago, Lower Level – Salon C-7 (Chicago, IL)
 
----
-
 ## Panel Information
 * **Panel Title:** *3D Worldbuilding: Contexts, Narratives and Pedagogies*
 * **Presentation Title:** *"Uncomputable in the Computational World"*
 * **Chairs / Organizers:** Matthew Doyle (Pasadena City College) & J. Yuehao Jiang (University of California, Los Angeles)
-
----
 
 ## Summary & Key Themes
 The panel examined 3D worldbuilding as an artistic, narrative, and educational practice, investigating how digital environments, virtual simulations, and game engines can challenge technological dominance and reframe creative computing instruction.
@@ -25,8 +21,6 @@ In her presentation, **"Uncomputable in the Computational World,"** Dr. Qi explo
 * **Alternative AI & Computational Art:** Decolonial, non-linear, and community-centered frameworks in interactive simulation and machine learning.
 * **Digital Literacy & Pedagogy:** Re-evaluating creative coding education to aid critical engagement with emerging AI tools beyond industry paradigms.
 * **Simulation as Art Practice:** Using web-based simulations and speculative worldmaking to deconstruct automated systems and data-driven narratives.
-
----
 
 ## Official Links
 * [CAA 2024 Session 12814 Page](https://caa.confex.com/caa/2024/meetingapp.cgi/Session/12814)
