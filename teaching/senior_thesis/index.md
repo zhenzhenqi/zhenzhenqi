@@ -43,6 +43,8 @@ Make a version of the game that has Restart button, but no Quit Button
 
 If the controller has been idling for X amount of time, restart the game and display the Starting menu screen. 
 
+<h3>Selected Student Works</h3>
+
 For players who are not native gamers, consider printing out a physical copy of the instructional menu and place it next to your monitor screen. 
 
 
