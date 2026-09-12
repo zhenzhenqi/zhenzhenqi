@@ -58,7 +58,6 @@ Students may occasionally be required to use a computer or phone for interactive
 <h3>Selected Student Works</h3>
 <p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming0.png' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming1.gif' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming2.png' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming3.png' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming4.png' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming5.gif' | relative_url }}" alt="interface screenshot"></p>
