@@ -27,8 +27,8 @@ In her presentation, **"Uncomputable in the Computational World,"** Dr. Qi explo
 * [CAA 112th Annual Conference Portal](https://www.collegeart.org/programs/conference/conference2024)
 * [College Art Association Main Website](https://www.collegeart.org)
 
-<br>
 
+## Presentation Slides
 <div class="slide-embed">
  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1YAfiqOXqUxfzJ07BxSgvslfVIpvokwpsG60rL5qJcwHOp92p6D_KjJaVgSMJTUIQkUOW3bSB-U1F/pubembed?start=false&loop=false&delayms=3000" title="Uncomputable in the Computational World presentation" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
