@@ -12,14 +12,14 @@ permalink: /video-game/go-to-sea/
 
 <hr>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhenzhenqi/main/assets/image/go-to-sea-banwei2.webp" alt="installation view at Reflexion Gallery, 798 Art District, Beijing">
-installation view at Reflexion Gallery, 798 Art District, Beijing. April, 2026</p>
+Installation view at Reflexion Gallery, 798 Art District, Beijing. April, 2026</p>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhenzhenqi/main/assets/image/go-to-sea-banwei3.webp" alt="installation view at Reflexion Gallery, 798 Art District, Beijing">
-installation view at Reflexion Gallery, 798 Art District, Beijing. April, 2026</p>
+Installation view at Reflexion Gallery, 798 Art District, Beijing. April, 2026</p>
 <p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_tam_01.webp' | relative_url }}" alt="installation view at Today Art Museum, Beijing">
 Installation view at Today Art Museum, Beijing. July, 2023</p>
-<p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_3.webp' | relative_url }}" alt="bathhouse interior 3d version"></p>
-<p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_0.webp' | relative_url }}" alt="bathhouse interior"></p>
-<p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_1.webp' | relative_url }}" alt="bathhouse interior"></p>
+<p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_3.webp' | relative_url }}" alt="bathhouse interior 3d version">Game Chapter Screen Capture</p>
+<p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_0.webp' | relative_url }}" alt="bathhouse interior">Game Chapter Screen Capture</p>
+<p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_1.webp' | relative_url }}" alt="bathhouse interior">Game Chapter Screen Capture</p>
 
 
 <h3 id="project-brief">project brief</h3>
@@ -29,8 +29,6 @@ Installation view at Today Art Museum, Beijing. July, 2023</p>
 <p>Our team has faced obstacles in developing this project, but we are committed to delivering a thought-provoking and emotionally engaging experience to players by the end of the year. &ldquo;Go To Sea&rdquo; portrays moments of violence but also conveys a mix of sadness and happiness, reflecting the characters&rsquo; hardships and victories.</p>
 <p>We invite players to embark on this sincere journey, as we strive to authentically capture the essence of growing up in 80s/90s China and the realities of rapid modernization.</p>
 
-<h1 id="team">Team:</h1>
-<p>zzyw (Yang Wang and Zhenzhen Qi), Jiaoyang Li, Zongying Liu, Qianlin Li</p>
 
 
 <h3 id="team">Team</h3>
