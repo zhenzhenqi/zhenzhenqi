@@ -6,15 +6,28 @@ permalink: /talk/demystification-and-remystification/
 
 
 ## Talk Details
-* **Presentation Type:** Multi-Venue Presentation Series & Artist Lecture
-* **Date / Timeline:** 2025
-* **Location / Venues:** Multi-venue academic and art institutions
-* **Speaker:** Dr. Zhenzhen Qi (Media artist, educator, technologist, and co-founder of *zzyw* / *z2a studio*) & Yang Wang (*zzyw*)
+* **Conference:** CAA 113th Annual Conference
+* **Date & Time:** Thursday, February 13, 2025, 11:00 AM–12:30 PM
+* **Location:** New York Hilton Midtown, 2nd Floor, Beekman, New York, NY
+* **Presentation:** *Remystification and Demystification*, 11:05–11:25 AM
+* **Presenter:** Zhenzhen Qi, University of Connecticut – Digital Media & Design Department
+* **Core Topic:** Examining how to reframe human agency, interface design, and critical relationships with artificial intelligence beyond single-agent/monolithic models.
 
 ## Panel Information
-* **Presentation Title:** *"Demystification and Remystification: free relation to AI"* (去神秘化与再神秘化：与AI的自由关系)
-* **Collaborative Collective:** zzyw (founded by Zhenzhen Qi & Yang Wang)
-* **Core Theoretical Focus:** Heideggerian philosophy of technology, critical tech education, and human-AI symbiosis
+* **Panel Title:** *Critical AI Literacy in Art and Design Education and Practice*
+* **Panel Chairs:** Leigh-Ann Pahapill, Bowling Green State University; Charles Kanwischer, Bowling Green State University; Michael Grillo, University of Maine
+
+### Panel Description
+
+Organized by CAA's Professional Practices Committee, the panel addressed the critical adoption of rapidly developing AI technologies in art and design education and practice. It considered artists' practices, scholarly standards, ethics, human–AI collaboration, and ways AI-augmented art can foster reflection on AI's cultural, social, and political implications. Topics included critical AI literacy in curricula, ethical approaches to collaborative art-making, AI's effects on professional practices, and emerging standards for art and design education.
+
+### Presentations
+
+* **11:00–11:05 AM:** Chair Remarks
+* **11:05–11:25 AM:** *Remystification and Demystification* — Zhenzhen Qi, University of Connecticut – Digital Media & Design Department
+* **11:25–11:45 AM:** *The transformative power of AI gaze in art-making: creativity and ethics* — Daniel Raffini
+* **11:45 AM–12:05 PM:** *Critical AI Literacy in Design Education: Navigating Ethical Integration and Collaborative Creativity* — Danilo Ljubomir Bojić, Winona State University
+* **12:05–12:25 PM:** *Emergent Phenomena in AI and its Implications in Art Pedagogy* — Niloofar Gholamrezaei, Washington and Lee University
 
 ## Summary & Key Themes
 This presentation series addresses current debates on artificial intelligence that are often trapped in polarized narratives—either viewing AI as an existential threat to human subjectivity or praising it purely as an instrumental efficiency tool. Drawing on Heidegger's concept of technology as a "mode of revealing," Qi and zzyw propose reconstructing humanity's connection to AI through a dual framework of **Demystification** and **Remystification** to cultivate a "free relation" to technology.
@@ -25,9 +38,8 @@ In **"Demystification and Remystification: free relation to AI,"** Dr. Qi explor
 * **Beyond Tool-Dominion Frameworks:** Moving past binary views of technology (either total control or total submission) to build a reflective, non-extractive framework for human-machine symbiosis.
 
 ## Official Links
-* [zzyw Talk Page: Demystification and Remystification](https://www.zzyw.org/zzyw/talk/demystification-and-remystification/)
-* [zzyw Official Artist Website](https://www.zzyw.org/)
-* [Asian American Arts Alliance Event Page](https://www.aaa-a.org/programs/mountain-of-many-voices-live-a-collective-storytelling-performance-and-artist-talk)
+* [CAA 2025 panel and presentation schedule](https://caa.confex.com/caa/2025/meetingapp.cgi/Session/15273)
+* [CAA 113th Annual Conference schedule](https://caa.confex.com/caa/2025/meetingapp.cgi)
 
 ## Presentation Slides
 <div class="slide-embed">
