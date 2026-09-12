@@ -51,6 +51,39 @@ A 200-word project statement
 1 GIF image
 The code URL
 
+<h3>Weekly Synopsis</h3>
+| Week | Day | Date | Topic | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Tuesday | 8/26/2025 | Course Introduction. | |
+| | Thursday | 8/28/2025 | Introduction of AI. | |
+| 2 | Tuesday | 9/2/2025 | Hello World with Express Server | |
+| | Thursday | 9/4/2025 | Static tamagotchi bot served with an express server. | |
+| 3 | Tuesday | 9/9/2025 | Save user input in a JSON file saved on the express server | Add/Drop ends |
+| | Thursday | 9/11/2025 | Read content of JSON file and display on client side | |
+| 4 | Tuesday | 9/16/2025 | Send user chat history from JSON file to OpenAI | |
+| | Thursday | 9/18/2025 | Display AI result on client side | |
+| 5 | Tuesday | 9/23/2025 | Prompt Engineering and Eval | |
+| | Thursday | 9/25/2025 | Fine-tuning | |
+| 6 | Tuesday | 9/30/2025 | Health Stat Design for Tamagotchi | |
+| | Thursday | 10/2/2025 | Gif/Animation design | |
+| 7 | Tuesday | 10/7/2025 | Unity Integration | |
+| | Thursday | 10/9/2025 | Unity Integration | |
+| 8 | Tuesday | 10/14/2025 | Midterm Critique Day 1 | |
+| | Thursday | 10/16/2025 | Midterm Critique Day 2 | |
+| 9 | Tuesday | 10/21/2025 | FP Prototype 1 | |
+| | Thursday | 10/23/2025 | FP Prototype 1 | |
+| 10 | Tuesday | 10/28/2025 | FP Prototype 2 | |
+| | Thursday | 10/30/2025 | FP Prototype 2 | |
+| 11 | Tuesday | 11/4/2025 | FP Prototype 3 | |
+| | Thursday | 11/6/2025 | FP Prototype 3 | |
+| 12 | Tuesday | 11/11/2025 | FP Prototype 4 | |
+| | Thursday | 11/13/2025 | FP Prototype 4 | |
+| 13 | Tuesday | 11/18/2025 | FP Prototype 5 | |
+| | Thursday | 11/20/2025 | FP Prototype 5 | |
+| 14 | Tuesday | 11/25/2025 | Thanksgiving. Class Does Not Meet. | |
+| | Thursday | 11/27/2025 | Thanksgiving. Class Does Not Meet. | |
+| 15 | Tuesday | 12/2/2025 | Final Critique Day 1 | |
+| | Thursday | 12/4/2025 | Final Critique Day 2 | |
 
 <h3>Selected Student Works</h3>
 <p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai1.jpg' | relative_url }}" alt="interface screenshot"></p>
