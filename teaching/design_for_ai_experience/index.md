@@ -14,8 +14,7 @@ permalink: /teaching/design_for_ai_experience/
 
 <p>Prerequisites: Open to college seniors and graduate students. Prior background in one or more of the following fields: 3D modeling & rigging, REST API integration, dynamic web development (JavaScript, Node.js), interaction design, game design, or educational design.</p>
 
-<p>Scope of Project
-The scope of this project is the development of Conversational AI and Assessment Systems. The product of this work will be an AI chatbot platform for K-12 learners as part of Bushnell’s educational vision. The primary task will be to support questions and answers in some historical context. The target populations include students that are chronically absent, incarcerated, enrolled in underserved public schools or homeschools.
+<p>Scope of Project: The scope of this project is the development of Conversational AI and Assessment Systems. The product of this work will be an AI chatbot platform for K-12 learners as part of Bushnell’s educational vision. The primary task will be to support questions and answers in some historical context. The target populations include students that are chronically absent, incarcerated, enrolled in underserved public schools or homeschools.
 
 The AI chatbot should:
 be capable of conversing with students and answer questions related to the areas of instruction
