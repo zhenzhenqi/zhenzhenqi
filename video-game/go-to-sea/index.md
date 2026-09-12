@@ -11,6 +11,10 @@ permalink: /video-game/go-to-sea/
 <p>07/2023: Today Museum of Art, Beijing, China</p>
 
 <hr>
+<p><img src="{{ '/assets/imported/video-game/go-to-sea/banwei2.jpg' | relative_url }}" alt="installation view at Reflexion Gallery, 798 Art District, Beijing">
+installation view at Reflexion Gallery, 798 Art District, Beijing. April, 2026</p>
+<p><img src="{{ '/assets/imported/video-game/go-to-sea/banwei3.jpg' | relative_url }}" alt="installation view at Reflexion Gallery, 798 Art District, Beijing">
+installation view at Reflexion Gallery, 798 Art District, Beijing. April, 2026</p>
 <p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_tam_01.webp' | relative_url }}" alt="installation view at Today Art Museum, Beijing">
 Installation view at Today Art Museum, Beijing. July, 2023</p>
 <p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_0.webp' | relative_url }}" alt="bathhouse interior"></p>
