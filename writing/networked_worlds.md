@@ -16,5 +16,14 @@ Research & production: Kesia Inkersole, Nelya Rosa
 
 Art director: Paloma Moniz
 
-3D Design (Open Call): Lucy Hardcastle Studio
+3D Design: Lucy Hardcastle Studio
 
+
+<img src="{{ '/assets/imported/writing/networked_worlds/networked1.png' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked2.png' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked3.png' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked4.png' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked5.png' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked6.png' | relative_url }}" alt="cover page">
+<img src="{{ '/assets/imported/writing/networked_worlds/networked7.png' | relative_url }}" alt="cover page">
+<br><br><br><br>
