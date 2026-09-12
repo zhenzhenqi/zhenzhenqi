@@ -1,7 +1,7 @@
 ---
 layout: main
 title: "Design for AI Experience"
-permalink: /teaching/cu_simulated/
+permalink: /teaching/design_for_ai_experience/
 ---
 
 
