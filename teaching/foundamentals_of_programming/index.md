@@ -54,5 +54,6 @@ In cases when classes might be missed due to illness, travel, or an unforeseen e
 
 
 <h3>Selected Student Works</h3>
+<p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis1.jpg' | relative_url }}" alt="interface screenshot"></p>
 Students may occasionally be required to use a computer or phone for interactive web-based activities. Otherwise, personal devices should be used solely for reference or note-taking during lectures. 
 
