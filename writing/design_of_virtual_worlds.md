@@ -19,7 +19,7 @@ ISBN: 978-3-8376-7142-1
 
 <br>
 
-<h3>Remaking Virtuality</h3>
+<h3>Design of Virtual Worlds</h3>
 
 Digital interactive narratives are rapidly entering spaces of interactive and experiential design. An increasing number of general audiences are experiencing works of art through interactive installation, internet art, virtual reality (VR), and augmented reality-(AR) based software applications. An increasing amount of academic curriculums are being redesigned into networked narrative environments, where students are expressing themselves, and being entertained, while learning new knowledge at the same time. Meanwhile, designers and media theorists are also entering heated debates about what it means to make a story digitally interactive. Central to this debate is an agent-world entanglement that emerges from the audience being able to enact the part of the original narrative through real-time software and hardware interfaces. When a narrative initially shaped by the author is rearranged by the audience through a series of button clicks and subsequently subject to system-level rules automated by computer algorithms, whose story does it become? In this chapter, the researcher investigates the central conflict of digital interactive media through historical events and contemporary case studies and inquires about conditions for collective authenticity against the backdrop of digital mediation, collective agency, and decentralization. 
 
