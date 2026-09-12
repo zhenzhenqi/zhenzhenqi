@@ -42,7 +42,7 @@ Implement a "transfer of ownership" model where the students move from being pas
 Guide students through the ethical challenges of creating a representative hero, ensuring the bot's synthesized knowledge is inclusive, avoids bias, and remains focused on positive social outcomes as defined by the student body
 </p>
 
-<h3>Selected Game Design</h3>
+<h3>Selected Game Design Elements</h3>
 <p><img src="{{ '/assets/imported/teaching/design_for_ai_experience/bushnell1.jpg' | relative_url }}" alt="">Main Navigation</p>
 <p><img src="{{ '/assets/imported/teaching/design_for_ai_experience/bushnell2.jpg' | relative_url }}" alt="">Individual Game Landing Page</p>
 <p><img src="{{ '/assets/imported/teaching/design_for_ai_experience/bushnell3.jpg' | relative_url }}" alt="">Narrative</p>
