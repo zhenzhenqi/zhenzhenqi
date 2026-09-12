@@ -57,7 +57,7 @@ ul, ol { margin: 0; }
 .project-subtext { font-size:11px; color:#000000a8; text-transform:lowercase; }
 .project-subtext .time { opacity:.3; text-transform:capitalize; }
 
-#center { border-right:1px solid #1b1818; flex:3 0 330px; font-size:1em; }
+#center { border-right:1px solid #1b1818; flex:3 0 330px; box-sizing:border-box; font-size:1em; padding-bottom:5rem; }
 #center #content { max-width:550px; margin:0 auto; }
 #center #content p { line-height:1.3em; }
 #center #content img { width:100%; height:auto; }
