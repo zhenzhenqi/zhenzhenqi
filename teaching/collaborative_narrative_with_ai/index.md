@@ -51,7 +51,7 @@ A 200-word project statement
 1 GIF image
 The code URL
 
-<h3>Weekly Synopsis</h3>
+<h3>Weekly Synopsis</h3> 
 | Week | Day | Date | Topic | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Tuesday | 8/26/2025 | Course Introduction. | |
