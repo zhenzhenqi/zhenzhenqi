@@ -5,7 +5,7 @@ permalink: /teaching/mfa_studio_critique/
 ---
 
 
-01/16/2024 04/26/2024
+01/16/2024 - 04/26/2024
 Faculty: Zhenzhen Qi
 
 <h3>Course Description</h3>
