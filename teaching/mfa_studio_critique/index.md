@@ -38,4 +38,4 @@ Document your work and work process,
 To approach the content of the course and creative opportunities presented with a desire to push beyond individual comfort zones
 To complete the assignments by scheduled due dates
 
-<h3>Selected Student works</h3>
+<h3>Selected Student Works</h3>
