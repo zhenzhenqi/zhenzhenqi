@@ -16,9 +16,9 @@ h1, h2, h3, .navbar, .section-title, .mobile-project-heading {
   font-weight: 400;
 }
 
-a { text-decoration: none; color: #8F2D3F; }
-a:visited { color: #8F2D3F; }
-a:hover, a:focus-visible { color:#671D2B; text-decoration:underline; text-underline-offset:.15em; }
+a { text-decoration: none; color: #782638; }
+a:visited { color: #782638; }
+a:hover, a:focus-visible { color:#501824; text-decoration:underline; text-underline-offset:.15em; }
 ul, ol { margin: 0; }
 
 .navbar {
@@ -37,8 +37,8 @@ ul, ol { margin: 0; }
 
 .navbar ul { height:100%; display:flex; align-items:stretch; list-style:none; padding:0; font-size:1rem; }
 .navbar li { display:flex; min-width:8em; padding:0 1rem; justify-content:center; align-items:center; }
-.navbar a { color:#8F2D3F; }
-.navbar a.active { color:#671D2B; }
+.navbar a { color:#782638; }
+.navbar a.active { color:#501824; }
 
 .row { display:flex; height:100vh; }
 .row .col { padding:2.5rem 20px 0; overflow-y:auto; }
