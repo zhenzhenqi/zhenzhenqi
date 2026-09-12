@@ -51,7 +51,8 @@ A 200-word project statement
 1 GIF image
 The code URL
 
-<h3>Weekly Synopsis</h3> 
+<h3>Weekly Synopsis</h3>
+
 | Week | Day | Topic |
 | :--- | :--- | :--- |
 | 1 | Tuesday | Course Introduction. |
@@ -86,10 +87,10 @@ The code URL
 | | Thursday | Final Critique Day 2 |
 
 <h3>Selected Student Works</h3>
-<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai1.png' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai2.png' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai3.jpg' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai4.gif' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai5.png' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai6.png' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai7.png' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai1.png' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai2.png' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai3.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai4.gif' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai5.png' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai7.png' | relative_url }}" alt="interface screenshot"></p>

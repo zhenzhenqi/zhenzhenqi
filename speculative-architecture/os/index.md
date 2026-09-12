@@ -28,7 +28,7 @@ permalink: /speculative-architecture/os/
 <hr>
 
 <p><em>Other Spring (OS)</em> is a theory-fiction world-building project.</p>
-<p><img src="{{ '/assets/imported/speculative-architecture/os/vlcsnap-2025-03-04-21h09m52s018.png' | relative_url }}" alt="">
+<p><img src="{{ '/assets/imported/speculative-architecture/os/vlcsnap-2025-03-04-21h09m52s018.webp' | relative_url }}" alt="">
 Film snapshot: UNO</p>
 <p><img src="{{ '/assets/imported/speculative-architecture/os/os_screenshot_1.webp' | relative_url }}" alt="">
 Film snapshot: UNO&rsquo;s Observational Center</p>
@@ -95,4 +95,3 @@ The HAZE oriented technical infrastructure of Hidden village 桃源&rsquo;s buil
 
                 <br><br><br><br>
             </div>
-
