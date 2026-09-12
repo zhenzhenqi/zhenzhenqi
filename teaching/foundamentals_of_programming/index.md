@@ -27,6 +27,7 @@ The primary learning resource for this class is " The Coding Train" (Language Tr
 This free online course focuses on the fundamentals of computer programming (variables, conditionals, iteration, functions & objects) using JavaScript. In particular it leverages the p5.js creative computing environment which is oriented towards visual displays on desktops, laptops, tablets or smartphones. The course is designed for computer programming novices.
 
 Additionally, the official p5js website offers a quick reference guide, tutorials, examples, and community-contributed projects that explore art and design through technology. p5.js also includes numerous third-party libraries for advanced functionalities such as sound visualization, skeleton tracking, and machine learning. For game development, students can utilize " p5play. ," a dedicated library for creating browser-based games.
+
 Students with prior experience in visual coding are encouraged to explore advanced series such as nature of code, Generative Art, and Generative Design. 
 
 <h3>Grading Structure</h3>
