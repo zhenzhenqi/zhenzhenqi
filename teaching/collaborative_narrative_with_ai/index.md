@@ -87,10 +87,10 @@ The code URL
 | | Thursday | Final Critique Day 2 |
 
 <h3>Selected Student Works</h3>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai1.png' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai2.png' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai3.jpg' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai4.gif' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai5.png' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai7.png' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhenzhenqi/main/assets/imported/teaching/collaborative_narrative_with_ai/ai1.png" alt="interface screenshot"></p>
+<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhenzhenqi/main/assets/imported/teaching/collaborative_narrative_with_ai/ai2.png" alt="interface screenshot"></p>
+<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhenzhenqi/main/assets/imported/teaching/collaborative_narrative_with_ai/ai3.jpg" alt="interface screenshot"></p>
+<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhenzhenqi/main/assets/imported/teaching/collaborative_narrative_with_ai/ai4.gif" alt="interface screenshot"></p>
+<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhenzhenqi/main/assets/imported/teaching/collaborative_narrative_with_ai/ai5.png" alt="interface screenshot"></p>
+<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhenzhenqi/main/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp" alt="interface screenshot"></p>
+<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhenzhenqi/main/assets/imported/teaching/collaborative_narrative_with_ai/ai7.png" alt="interface screenshot"></p>
