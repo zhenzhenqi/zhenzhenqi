@@ -53,3 +53,9 @@ The code URL
 
 
 <h3>Selected Student Works</h3>
+<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai1.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai2.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai3.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai4.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai5.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborate_narrative_with_ai/ai6.jpg' | relative_url }}" alt="interface screenshot"></p>
