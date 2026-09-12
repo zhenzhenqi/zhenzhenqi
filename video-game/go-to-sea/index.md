@@ -17,9 +17,10 @@ installation view at Reflexion Gallery, 798 Art District, Beijing. April, 2026</
 installation view at Reflexion Gallery, 798 Art District, Beijing. April, 2026</p>
 <p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_tam_01.webp' | relative_url }}" alt="installation view at Today Art Museum, Beijing">
 Installation view at Today Art Museum, Beijing. July, 2023</p>
+<p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_3.webp' | relative_url }}" alt="bathhouse interior 3d version"></p>
 <p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_0.webp' | relative_url }}" alt="bathhouse interior"></p>
 <p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_1.webp' | relative_url }}" alt="bathhouse interior"></p>
-<p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_3.webp' | relative_url }}" alt="bathhouse interior 3d version"></p>
+
 
 <h3 id="project-brief">project brief</h3>
 <p>Our first traditional narrative game project, &ldquo;Go To Sea.&rdquo; After focusing on simulations and computational projects for nearly a decade, we are now able to tell a meaningful story that resonates with children who grew up in 80s/90s China.</p>
