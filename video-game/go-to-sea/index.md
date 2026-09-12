@@ -6,9 +6,11 @@ permalink: /video-game/go-to-sea/
 
 
 <h3>Exhibition History</h3>
-<p>04/2026: Zone of Nowhere, Reflexion Gallery, 798 Art District, Beijing, China</p>
-<p>07/2024: Electronic Literature Organization (ELO) Virtual Conference and Media Festival</p>
-<p>07/2023: Today Museum of Art, Beijing, China</p>
+04-05/2026: Zone of Nowhere, Reflexion Gallery, 798 Art District, Beijing, China
+11/2025–03/2026: *Game Om* virtual exhibition, The Wrong Biannual
+07/2024: Electronic Literature Organization (ELO) Virtual Conference and Media Festival
+09-11/2024: ENNOVA Art Museum, Langfang, China
+07/2023: Today Museum of Art, Beijing, China
 
 <hr>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhenzhenqi/main/assets/image/go-to-sea-banwei2.webp" alt="installation view at Reflexion Gallery, 798 Art District, Beijing">
@@ -28,8 +30,6 @@ Installation view at Today Art Museum, Beijing. July, 2023</p>
 <p>Through interactive gameplay, &ldquo;Go To Sea&rdquo; aims to provide players with an intimate glimpse into the lives of people who experienced the challenges of rapid modernization. The story explores internal conflicts and the struggles of individuals as they navigate a changing world that feels both promising and unfamiliar.</p>
 <p>Our team has faced obstacles in developing this project, but we are committed to delivering a thought-provoking and emotionally engaging experience to players by the end of the year. &ldquo;Go To Sea&rdquo; portrays moments of violence but also conveys a mix of sadness and happiness, reflecting the characters&rsquo; hardships and victories.</p>
 <p>We invite players to embark on this sincere journey, as we strive to authentically capture the essence of growing up in 80s/90s China and the realities of rapid modernization.</p>
-
-
 
 <h3 id="team">Team</h3>
 <p>Directed and Written by <em>zzyw (Zhenzhen Qi and Yang Wang)</em></p>
