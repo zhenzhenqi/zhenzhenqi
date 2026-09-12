@@ -52,8 +52,15 @@ Aside from weekly assignments which are predominantly self-learning activities, 
 During the first three weeks of the semester, all students receive full participation credit (100 points per week, totaling 300 points) until the add/drop deadline, as outlined in the academic calendar. After this deadline, absences will prevent you from completing in-class activities and will gradually lower your participation grade. Repeated tardiness will be recorded as absences. 
 In cases when classes might be missed due to illness, travel, or an unforeseen emergency, please email the course instructor as soon as possible with details. Providing sufficient information allows for an excused absence and ensures your participation grade is not affected.
 
+Students may occasionally be required to use a computer or phone for interactive web-based activities. Otherwise, personal devices should be used solely for reference or note-taking during lectures. 
+
 
 <h3>Selected Student Works</h3>
-<p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis1.jpg' | relative_url }}" alt="interface screenshot"></p>
-Students may occasionally be required to use a computer or phone for interactive web-based activities. Otherwise, personal devices should be used solely for reference or note-taking during lectures. 
+<p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming1.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming2.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming3.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming4.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming5.jpg' | relative_url }}" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/foundamentals_of_programming/programming6.jpg' | relative_url }}" alt="interface screenshot"></p>
+
 
