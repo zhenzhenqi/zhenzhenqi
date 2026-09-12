@@ -5,7 +5,7 @@
 
 body {
   font-family: "Crimson Text", "Noto Serif SC", "Songti SC", STSong, SimSun, serif;
-  background-color: #c4cac8;
+  background-color: #F7E6E2;
   font-size: 16px;
   margin: 0;
   color: #1b1818;
@@ -30,7 +30,7 @@ ul, ol { margin: 0; }
   z-index: 1000;
   height: 2.5rem;
   border-bottom: 1px solid #1b1818;
-  background-color: #c9cfcd;
+  background-color: #F7E6E2;
 }
 
 .navbar ul { height:100%; display:flex; align-items:stretch; list-style:none; padding:0; font-size:1rem; }
@@ -70,7 +70,7 @@ ul, ol { margin: 0; }
 .two-panel-row #center { flex:1 1 50%; box-sizing:border-box; border-right:0; }
 .two-panel-row #right { display:none; }
 
-#pages { position:fixed; top:0; margin:3.5rem 1rem 1rem; border:1px solid #000; background-color:#c4cac8; z-index:100; }
+#pages { position:fixed; top:0; margin:3.5rem 1rem 1rem; border:1px solid #000; background-color:#F7E6E2; z-index:100; }
 #pages li { list-style:none; padding:3px 5px; }
 .mobile-only { display:none; }
 
