@@ -5,7 +5,7 @@ permalink: /teaching/design_for_ai_experience/
 ---
 
  
-<p>Spring 2026</p>
+<p>Jan 20, 2026–May 1, 2026</p>
 <p>Faculty: Zhenzhen Qi, Dan Pejril</p>
         					                                                 
 <p>This project based studio course explores the intersection of historical narrative, artificial intelligence, and experiential design. Guided by the course instructors, students will collaborate with the Bushnell Center for the Performing Arts to create an interactive installation centered on the memoir of a WWII survivor. The project involves creating a 3D-modeled digital avatar of the survivor and connecting it to a large language model (LLM) to facilitate real-time conversation and learning. Students will be challenged to design meaningful interactions for two distinct audiences: general museum visitors engaging in deep, empathetic dialogue and K-12 learners interacting through gamified, educational experiences. This course is a unique opportunity to produce a real-world application that redefines how history is preserved, presented, and engaged with in public and educational spaces.</p>
