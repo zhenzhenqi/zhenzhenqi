@@ -42,7 +42,7 @@ To complete the assignments by scheduled due dates
 <h3>Selected Student Works</h3>
 *Echoes of Home* by [Yuna Kim](https://www.yunakimdesign.com/) is an immersive experience that explores the ideas of home, displacement, and belonging. Using interactive digital environments, real-time game engine technology, and AI-driven interaction, the project creates virtual spaces that evoke memory and emotion — inviting viewers to reflect on their own experiences and definitions of home. At its core, Echoes of Home transforms digital space into a site for introspection and connection. While physical homes may be impermanent, an authentic inner home can be reclaimed and nurtured—a truth that endures through resilience, memory, and imagination.
 
-*Echoses of Home* won GameFest 2026, Best of Visual Narrative Award, and was selected as part of the *Pleasure Engineered* group exhibition at Accent Sisters Gallery in New York City in April 2026. The exhibition and the work was also featured by [Cultbytes](https://cultbytes.com/pleasure-engineered-mostly-captures-the-joy-of-a-i/).
+*Echoes of Home* won GameFest 2026's [Excellence in Visual Art award](https://gamehub.rpi.edu/gamefest/awards) and was selected as part of the *Pleasure Engineered* group exhibition at Accent Sisters Gallery in New York City in April 2026. The exhibition and the work was also featured by [Cultbytes](https://cultbytes.com/pleasure-engineered-mostly-captures-the-joy-of-a-i/).
 
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/yuna1.jpg' | relative_url }}" alt="screencapture">
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/yuna2.jpg' | relative_url }}" alt="screencapture">
