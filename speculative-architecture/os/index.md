@@ -5,25 +5,21 @@ permalink: /speculative-architecture/os/
 ---
 
 <h3>Exhibition History</h3>
-<ul class="exhibition-history">
-  <li>12/2025: <em>Bay Area Art and Technology Triennial</em>, City Campus Art Museum, Guangzhou, China</li>
-  <li>03/2025: <em>Asia Digital Art Exhibition</em>, Beijing, China</li>
-  <li>03/2025: Hyundai Motorstudio (Art District 798), Beijing, China</li>
-  <li>01/2025: The Benton Museum of Art, Storrs, US</li>
-  <li>09/2024: HOW Art Museum, Shanghai, China</li>
-  <li>08/2024: Hanart TZ Gallery, Hong Kong</li>
-  <li>06/2024: HEK (Haus der Elektronischen Künste), Art Basel, Basel, Switzerland</li>
-  <li>02/2024: Museum MACAN, Jakarta, Indonesia</li>
-  <li>01/2024: NAC (National Arts Council), Singapore Art Week 2024, Objectifs, Singapore</li>
-  <li>09/2023: Ars Electronica Festival, Linz, Austria</li>
-  <li>06/2023: <em>Metamorphosis-Metaverse</em>, Electra Virtual Museum</li>
-</ul>
+<p>12/2025 — <em>Other Spring</em>, “Bay Area Art and Technology Triennial,” City Campus Art Museum, Guangzhou Academy of Fine Arts, Guangzhou, China.</p>
+<p>03/2025 — <em>Other Spring</em>, “Asia Digital Art Exhibition,” Beijing, China.</p>
+<p>03/2025 — <em>Other Spring</em>, “<a href="https://artlab.hyundai.com/editorial/watch/vh-award-archive-film?from=vh-award&amp;fromTitle=VH+AWARD">The VH AWARD Archive Exhibition</a>,” Hyundai Motorstudio Beijing, Beijing, China.</p>
+<p>01/2025 — <em>Other Spring</em>, “<a href="https://benton.uconn.edu/2025-digital-media-and-design-faculty-exhibition/">2025 Digital Media &amp; Design Faculty Exhibition</a>,” The William Benton Museum of Art, Storrs, CT, USA.</p>
+<p>09/2024 — <em>Other Spring</em>, “The Interface Between Humanity and the Universe 3.0,” HOW Art Museum, Shanghai, China.</p>
+<p>08/2024 — <em>Other Spring</em>, “<a href="https://vhaward.com/5th-award/">The 5th VH AWARD</a>,” Hanart TZ Gallery, Hong Kong.</p>
+<p>06/2024 — <em>Other Spring</em>, “<a href="https://vhaward.com/5th-award/">The 5th VH AWARD</a>,” HEK (House of Electronic Arts), during Art Basel, Basel, Switzerland.</p>
+<p>02/2024 — <em>Other Spring</em>, “<a href="https://vhaward.com/5th-award/">The 5th VH AWARD</a>,” Museum MACAN (Museum of Modern and Contemporary Art in Nusantara), Jakarta, Indonesia.</p>
+<p>01/2024 — <em>Other Spring</em>, “<a href="https://vhaward.com/5th-award/">The 5th VH AWARD</a>,” Objectifs, Singapore Art Week 2024, Singapore.</p>
+<p>09/2023 — <em>Other Spring</em>, “<a href="https://ars.electronica.art/who-owns-the-truth/en/events/other-spring/">Ars Electronica Festival 2023: Who Owns the Truth?</a>,” Deep Space 8K, Ars Electronica Center, Linz, Austria.</p>
+<p>06/2023 — <em>Other Spring</em>, “<a href="https://evm.elektramontreal.ca/fr/artiste/zzyw">Metamorphosis Metaverse</a>,” Elektra Virtual Museum, Montreal, Canada.</p>
 
 <h3>Related Awards &amp; Permanent Collections</h3>
-<ul class="exhibition-history">
-  <li>03/2025: Acquired into the Permanent Collection of the City Campus Art Museum, Guangzhou Academy of Fine Arts, Guangzhou, China</li>
-  <li>09/2022: Finalist for the 5th VH Award</li>
-</ul>
+<p>03/2025 — <em>Other Spring</em> acquired for the permanent collection of the City Campus Art Museum, Guangzhou Academy of Fine Arts, Guangzhou, China.</p>
+<p>09/2022 — Finalist, “<a href="https://www.hyundai.com/content/hyundai/ww/data/news/data/2023/0000017024/attach/0503%20Press%20Release_Hyundai%20Motor%20Group%205th%20VH%20AWARD_final_.pdf">The 5th VH AWARD</a>,” Hyundai Motor Group.</p>
 
 <hr>
 
