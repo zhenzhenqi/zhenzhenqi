@@ -13,6 +13,9 @@ permalink: /speculative-architecture/os/
 <p>08/2024 — <em>Other Spring</em>, Hanart TZ Gallery, Hong Kong.</p>
 <p>06/2024 — <em>Other Spring</em>, HEK (House of Electronic Arts), during Art Basel, Basel, Switzerland.</p>
 <p>02/2024 — <em>Other Spring</em>, Museum MACAN (Museum of Modern and Contemporary Art in Nusantara), Jakarta, Indonesia.</p>
+<figure style="width: 50%; max-width: 100%; margin: 1.25rem 0 2rem;">
+  <img src="{{ '/assets/imported/speculative-architecture/os/museum-macan-vh-award-flyer.jpg' | relative_url }}" alt="Exhibition flyer for The 5th VH Award at Museum MACAN, February 29–April 21, 2024" style="display: block; width: 100%; height: auto;">
+</figure>
 <p>01/2024 — <em>Other Spring</em>, Objectifs, Singapore Art Week 2024, Singapore.</p>
 <p>09/2023 — <em>Other Spring</em>, “<a href="https://ars.electronica.art/who-owns-the-truth/en/events/other-spring/">Ars Electronica Festival 2023: Who Owns the Truth?</a>,” Deep Space 8K, Ars Electronica Center, Linz, Austria.</p>
 <p>06/2023 — <em>Other Spring</em>, “<a href="https://evm.elektramontreal.ca/fr/artiste/zzyw">Metamorphosis Metaverse</a>,” Elektra Virtual Museum, Montreal, Canada.</p>
