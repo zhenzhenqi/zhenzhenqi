@@ -49,6 +49,7 @@ For players who are not native gamers, consider printing out a physical copy of 
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis1.jpg' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis2.png' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/showcase-image-1.jpg' | relative_url }}" alt="Pixel-art action game screenshot featuring a sword-wielding character in a purple-lit interior"></p>
+<p><img src="{{ '/assets/imported/teaching/senior_thesis/showcase-image-2.jpg' | relative_url }}" alt="First-person cooperative action game screenshot set in a dark wooded environment"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis5.jpg' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis6.jpg' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis7.jpg' | relative_url }}" alt="interface screenshot"></p>
