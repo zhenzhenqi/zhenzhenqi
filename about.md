@@ -1,6 +1,7 @@
 ---
 layout: main
 title: About
+hide_title: true
 order: 6
 category: about
 permalink: /about.html
