@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Remaking Virtuality
+title: Design of Virtual Worlds
 permalink: /writing/design_of_virtual_worlds/
 ---
 
