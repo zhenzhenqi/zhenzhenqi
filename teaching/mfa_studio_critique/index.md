@@ -49,3 +49,7 @@ To complete the assignments by scheduled due dates
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/yuna3.jpg' | relative_url }}" alt="screencapture">
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/yuna4.jpg' | relative_url }}" alt="screencapture">
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/yuna5.jpg' | relative_url }}" alt="screencapture">
+
+*Woven Garden* by Nooshin Farashaei features an interactive website that engages users by showcasing the unseen weavers and includes recordings of Pattern Singing, providing an immersive experience of Persian carpet-weaving heritage. This project aims to honor all the weavers and celebrate the beauty they contribute to humanity.
+
+<img src="{{ '/assets/imported/teaching/mfa_studio_critique/woven-garden.png' | relative_url }}" alt="Woven Garden interactive scene featuring Persian carpet patterns, illustrated riders, birds, trees, and flowers">
