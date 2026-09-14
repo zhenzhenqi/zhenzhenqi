@@ -3,13 +3,12 @@ layout: default
 title: Zhenzhen Qi
 ---
 <section id="pages">
-  <li><a href="{{ '/about.html' | relative_url }}">CV</a></li>
   <li class="mobile-only"><a href="#project-list-anchor">Projects</a></li>
 </section>
 
 <header>
   <nav class="navbar">
-    <ul><li><a class="active" href="{{ '/' | relative_url }}">Zhenzhen Qi</a></li></ul>
+    <ul><li><a class="active" href="{{ '/' | relative_url }}">Zhenzhen Qi</a>, <a href="{{ '/about.html' | relative_url }}">CV</a></li></ul>
   </nav>
 </header>
 
