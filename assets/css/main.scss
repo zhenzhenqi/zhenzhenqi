@@ -39,7 +39,7 @@ ul, ol { margin: 0; }
 .navbar .site-identity { gap:.65rem; padding:0 1.35rem; }
 .navbar a { color:#782638; }
 .navbar a.active { color:#501824; }
-.portfolio-summary { position:fixed; top:3rem; left:0; right:0; z-index:999; box-sizing:border-box; margin:0; padding:.85rem 1.35rem .95rem; border-bottom:1px solid #1b1818; background-color:#F7E6E2; font-family:inherit; font-size:1rem; font-weight:400; }
+.portfolio-summary { position:fixed; top:3rem; left:0; right:0; z-index:999; box-sizing:border-box; margin:0; padding:.35rem 1.35rem .95rem; border-bottom:1px solid #1b1818; background-color:#F7E6E2; font-family:inherit; font-size:1rem; font-weight:400; }
 
 .row { display:flex; height:100vh; }
 .row .col { padding:2.5rem 20px 0; overflow-y:auto; }
