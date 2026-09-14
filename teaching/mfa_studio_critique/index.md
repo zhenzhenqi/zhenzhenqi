@@ -50,9 +50,13 @@ To complete the assignments by scheduled due dates
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/yuna4.jpg' | relative_url }}" alt="screencapture">
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/yuna5.jpg' | relative_url }}" alt="screencapture">
 
+<br><br>
+
 *Woven Garden* by Nooshin Farashaei features an interactive website that engages users by showcasing the unseen weavers and includes recordings of Pattern Singing, providing an immersive experience of Persian carpet-weaving heritage. This project aims to honor all the weavers and celebrate the beauty they contribute to humanity.
 
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/woven-garden.png' | relative_url }}" alt="Woven Garden interactive scene featuring Persian carpet patterns, illustrated riders, birds, trees, and flowers">
+
+<br><br>
 
 *The Furthest East*, by Rein E. Dawson-Darst, is an interplay between two games created with different creative approaches, but united by one story. The audience is invited to explore places that are now deserted and customs that are almost lost, and to learn about the tragic experiences of Koryo-saram. Inspired by her ancestry and drawing from extensive research into historical records and personal testimonies, this artwork aims to preserve the lived experiences of Koryo-saram, foster empathy, and ensure that their pain and resilience are acknowledged by the world.
 
