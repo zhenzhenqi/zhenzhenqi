@@ -48,6 +48,7 @@ For players who are not native gamers, consider printing out a physical copy of 
 <h3>Selected Student Works</h3>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/bfa-show-2026.png' | relative_url }}" alt="Atmospheric game interface with layered screens displaying condition, start game, load game, and settings options"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/final-screenshot-1.jpg' | relative_url }}" alt="Pianist performing on a dark stage beneath a vivid purple night sky and moon"></p>
+<p><img src="{{ '/assets/imported/teaching/senior_thesis/hook.png' | relative_url }}" alt="Cover of the Pantheon tabletop roleplaying game Game Master Guide, designed by Matt Lockett"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis1.jpg' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis2.png' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/showcase-image-1.jpg' | relative_url }}" alt="Pixel-art action game screenshot featuring a sword-wielding character in a purple-lit interior"></p>
