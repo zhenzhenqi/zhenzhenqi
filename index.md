@@ -8,13 +8,15 @@ title: Zhenzhen Qi
 
 <header>
   <nav class="navbar">
-    <ul><li class="site-identity"><a class="active" href="{{ '/' | relative_url }}">Zhenzhen Qi</a><span aria-hidden="true">|</span><a href="{{ '/about.html' | relative_url }}">CV</a></li></ul>
+    <div class="site-header">
+      <div class="site-identity"><a class="active" href="{{ '/' | relative_url }}">Zhenzhen Qi</a><span aria-hidden="true">|</span><a href="{{ '/about.html' | relative_url }}">CV</a></div>
+      <p class="header-summary">Research and Teaching, 08/2023 - 06/2026</p>
+    </div>
   </nav>
 </header>
 
 <div class="row two-panel-row">
   <div class="col" id="left">
-    <p class="portfolio-summary">Research and Teaching, 08/2023 - 06/2026</p>
     {% include project-list.html %}
     <footer class="site-footer">&copy;Zhenzhen Qi 2026 | All Rights Reserved</footer>
   </div>
