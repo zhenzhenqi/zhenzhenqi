@@ -46,6 +46,7 @@ If the controller has been idling for X amount of time, restart the game and dis
 For players who are not native gamers, consider printing out a physical copy of the instructional menu and place it next to your monitor screen. 
 
 <h3>Selected Student Works</h3>
+<p><img src="{{ '/assets/imported/teaching/senior_thesis/bfa-show-2026.png' | relative_url }}" alt="Atmospheric game interface with layered screens displaying condition, start game, load game, and settings options"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis1.jpg' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis2.png' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/showcase-image-1.jpg' | relative_url }}" alt="Pixel-art action game screenshot featuring a sword-wielding character in a purple-lit interior"></p>
