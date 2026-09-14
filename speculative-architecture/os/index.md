@@ -6,7 +6,7 @@ permalink: /speculative-architecture/os/
 
 <h3>Exhibition History</h3>
 <p>12/2025 — <em>Other Spring</em>, “Bay Area Art and Technology Triennial,” City Campus Art Museum, Guangzhou Academy of Fine Arts, Guangzhou, China.</p>
-<p>03/2025 — <em>Other Spring</em>, “Asia Digital Art Exhibition,” Beijing, China.</p>
+<p>03/2025 — <em>Other Spring</em>, “<a href="https://www.adae516.com/#/artWorks/detail?id=199">Asia Digital Art Exhibition</a>,” Beijing, China.</p>
 <p>03/2025 — <em>Other Spring</em>, “<a href="https://artlab.hyundai.com/editorial/watch/vh-award-archive-film?from=vh-award&amp;fromTitle=VH+AWARD">The VH AWARD Archive Exhibition</a>,” Hyundai Motorstudio Beijing, Beijing, China.</p>
 <p>01/2025 — <em>Other Spring</em>, “<a href="https://benton.uconn.edu/2025-digital-media-and-design-faculty-exhibition/">2025 Digital Media &amp; Design Faculty Exhibition</a>,” The William Benton Museum of Art, Storrs, CT, USA.</p>
 <p>09/2024 — <em>Other Spring</em>, “The Interface Between Humanity and the Universe 3.0,” HOW Art Museum, Shanghai, China.</p>
