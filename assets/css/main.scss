@@ -51,6 +51,7 @@ ul, ol { margin: 0; }
 #left .project-list { column-count:2; column-gap:1rem; padding:0 20px; }
 .type-group { break-inside:avoid; }
 .section-title { text-transform:uppercase; margin:.8rem 0; }
+.project-list > .type-group:first-child .section-title { margin-top:0; }
 .project-list ul { padding-left:1.15rem; }
 .project-list li { margin-bottom:5px; list-style:lower-alpha; }
 .project-title { font-size:1em; transition:opacity .3s, letter-spacing .3s; color:inherit; }
