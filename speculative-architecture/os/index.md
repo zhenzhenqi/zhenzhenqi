@@ -10,10 +10,10 @@ permalink: /speculative-architecture/os/
 <p>03/2025 — <em>Other Spring</em>, “<a href="https://artlab.hyundai.com/editorial/watch/vh-award-archive-film?from=vh-award&amp;fromTitle=VH+AWARD">The VH AWARD Archive Exhibition</a>,” Hyundai Motorstudio Beijing, Beijing, China.</p>
 <p>01/2025 — <em>Other Spring</em>, “<a href="https://benton.uconn.edu/2025-digital-media-and-design-faculty-exhibition/">2025 Digital Media &amp; Design Faculty Exhibition</a>,” The William Benton Museum of Art, Storrs, CT, USA.</p>
 <p>09/2024 — <em>Other Spring</em>, “The Interface Between Humanity and the Universe 3.0,” HOW Art Museum, Shanghai, China.</p>
-<p>08/2024 — <em>Other Spring</em>, “The 5th VH AWARD,” Hanart TZ Gallery, Hong Kong.</p>
-<p>06/2024 — <em>Other Spring</em>, “<a href="https://cms.hek.ch/files/downloads/VirtualBeauty_Press-Release.pdf">The 5th VH AWARD</a>,” HEK (House of Electronic Arts), during Art Basel, Basel, Switzerland.</p>
-<p>02/2024 — <em>Other Spring</em>, “<a href="https://www.museummacan.org/exhibition/THE-5TH-VH-AWARD?lang=en">The 5th VH AWARD</a>,” Museum MACAN (Museum of Modern and Contemporary Art in Nusantara), Jakarta, Indonesia.</p>
-<p>01/2024 — <em>Other Spring</em>, “<a href="https://www.objectifs.com.sg/the-5th-vh-award-exhibition/">The 5th VH AWARD</a>,” Objectifs, Singapore Art Week 2024, Singapore.</p>
+<p>08/2024 — <em>Other Spring</em>, Hanart TZ Gallery, Hong Kong.</p>
+<p>06/2024 — <em>Other Spring</em>, HEK (House of Electronic Arts), during Art Basel, Basel, Switzerland.</p>
+<p>02/2024 — <em>Other Spring</em>, Museum MACAN (Museum of Modern and Contemporary Art in Nusantara), Jakarta, Indonesia.</p>
+<p>01/2024 — <em>Other Spring</em>, Objectifs, Singapore Art Week 2024, Singapore.</p>
 <p>09/2023 — <em>Other Spring</em>, “<a href="https://ars.electronica.art/who-owns-the-truth/en/events/other-spring/">Ars Electronica Festival 2023: Who Owns the Truth?</a>,” Deep Space 8K, Ars Electronica Center, Linz, Austria.</p>
 <p>06/2023 — <em>Other Spring</em>, “<a href="https://evm.elektramontreal.ca/fr/artiste/zzyw">Metamorphosis Metaverse</a>,” Elektra Virtual Museum, Montreal, Canada.</p>
 
