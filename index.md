@@ -14,6 +14,7 @@ title: Zhenzhen Qi
 
 <div class="row two-panel-row">
   <div class="col" id="left">
+    <p class="portfolio-summary">Research and Teaching Portfolio, 08/2023-06/2026</p>
     {% include project-list.html %}
     <footer class="site-footer">&copy;Zhenzhen Qi 2026 | All Rights Reserved</footer>
   </div>
