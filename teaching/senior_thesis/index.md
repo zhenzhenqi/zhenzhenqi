@@ -48,8 +48,6 @@ For players who are not native gamers, consider printing out a physical copy of 
 <h3>Selected Student Works</h3>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis1.jpg' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis2.png' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis3.png' | relative_url }}" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis4.png' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis5.jpg' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis6.jpg' | relative_url }}" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/senior_thesis/thesis7.jpg' | relative_url }}" alt="interface screenshot"></p>
