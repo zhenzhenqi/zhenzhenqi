@@ -95,3 +95,4 @@ The code URL
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/blueprint-event-graph-redacted.png' | relative_url }}" alt="Unreal Engine Blueprint event graph connecting an AI-controlled character, chat messages, and response handling; API credentials redacted"></p>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai7.png" alt="interface screenshot"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/entry.gif' | relative_url }}" alt="Animated game scene of figures moving toward a glowing doorway in a futuristic environment"></p>
