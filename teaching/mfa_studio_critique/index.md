@@ -52,15 +52,15 @@ To complete the assignments by scheduled due dates
 
 <br><br>
 
-*Woven Garden* by Nooshin Farashaei features [an interactive website](https://newart.city/show/woven-garden) that engages users by showcasing the unseen weavers and includes recordings of Pattern Singing, providing an immersive experience of Persian carpet-weaving heritage. This project aims to honor all the weavers and celebrate the beauty they contribute to humanity. The interactive experience is available at [https://newart.city/show/woven-garden](https://newart.city/show/woven-garden).
-
-<img src="{{ '/assets/imported/teaching/mfa_studio_critique/woven-garden-entry.jpg' | relative_url }}" alt="Woven Garden entry screen for the Kerman Hunting Carpet gallery with navigation instructions and project information">
-<img src="{{ '/assets/imported/teaching/mfa_studio_critique/woven-garden.png' | relative_url }}" alt="Woven Garden interactive scene featuring Persian carpet patterns, illustrated riders, birds, trees, and flowers">
-
-<br><br>
-
 *The Furthest East*, by Rein E. Dawson-Darst, is an interplay between two games created with different creative approaches, but united by one story. The audience is invited to explore places that are now deserted and customs that are almost lost, and to learn about the tragic experiences of Koryo-saram. Inspired by her ancestry and drawing from extensive research into historical records and personal testimonies, this artwork aims to preserve the lived experiences of Koryo-saram, foster empathy, and ensure that their pain and resilience are acknowledged by the world. The 2D game (*The Furthest East: Requiem*) is also available online at [https://moriendum.itch.io/east-web](https://moriendum.itch.io/east-web).
 
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/the-furthest-east.png' | relative_url }}" alt="The Furthest East illustrated scene with a luminous seated figure, family portrait, books, luggage, and a wooden interior">
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/the-furthest-east-gameplay.png' | relative_url }}" alt="The Furthest East gameplay scene showing three characters in a room with family portraits, quilts, luggage, and interactive prompts">
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/the-furthest-east-installation.jpg' | relative_url }}" alt="The Furthest East gallery installation with historical luggage and personal objects displayed between two interactive screens">
+
+<br><br>
+
+*Woven Garden* by Nooshin Farashaei features [an interactive website](https://newart.city/show/woven-garden) that engages users by showcasing the unseen weavers and includes recordings of Pattern Singing, providing an immersive experience of Persian carpet-weaving heritage. This project aims to honor all the weavers and celebrate the beauty they contribute to humanity. The interactive experience is available at [https://newart.city/show/woven-garden](https://newart.city/show/woven-garden).
+
+<img src="{{ '/assets/imported/teaching/mfa_studio_critique/woven-garden-entry.jpg' | relative_url }}" alt="Woven Garden entry screen for the Kerman Hunting Carpet gallery with navigation instructions and project information">
+<img src="{{ '/assets/imported/teaching/mfa_studio_critique/woven-garden.png' | relative_url }}" alt="Woven Garden interactive scene featuring Persian carpet patterns, illustrated riders, birds, trees, and flowers">
