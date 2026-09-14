@@ -52,7 +52,7 @@ To complete the assignments by scheduled due dates
 
 <br><br>
 
-*Woven Garden* by Nooshin Farashaei features [an interactive website](https://newart.city/show/woven-garden) that engages users by showcasing the unseen weavers and includes recordings of Pattern Singing, providing an immersive experience of Persian carpet-weaving heritage. This project aims to honor all the weavers and celebrate the beauty they contribute to humanity.
+*Woven Garden* by Nooshin Farashaei features [an interactive website](https://newart.city/show/woven-garden) that engages users by showcasing the unseen weavers and includes recordings of Pattern Singing, providing an immersive experience of Persian carpet-weaving heritage. This project aims to honor all the weavers and celebrate the beauty they contribute to humanity. The interactive experience is available at [https://newart.city/show/woven-garden](https://newart.city/show/woven-garden).
 
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/woven-garden-entry.jpg' | relative_url }}" alt="Woven Garden entry screen for the Kerman Hunting Carpet gallery with navigation instructions and project information">
 <img src="{{ '/assets/imported/teaching/mfa_studio_critique/woven-garden.png' | relative_url }}" alt="Woven Garden interactive scene featuring Persian carpet patterns, illustrated riders, birds, trees, and flowers">
