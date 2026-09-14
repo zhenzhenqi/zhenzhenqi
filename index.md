@@ -2,7 +2,7 @@
 layout: default
 title: Zhenzhen Qi
 ---
-<section id="pages">
+<section id="pages" class="home-pages">
   <li class="mobile-only"><a href="#project-list-anchor">Projects</a></li>
 </section>
 
