@@ -88,6 +88,3 @@ The HAZE oriented technical infrastructure of Hidden village 桃源&rsquo;s buil
 </ul>
 <h2 id="special-thanks">Special Thanks</h2>
 <p>The project is sponsored by Hyundai Motor’s 5th VH Award and premiered on May 2nd, 2023.</p>
-
-                <br><br><br><br>
-            </div>
