@@ -37,6 +37,7 @@ ul, ol { margin: 0; }
 
 .navbar ul { height:100%; display:flex; align-items:stretch; list-style:none; padding:0; font-size:1rem; }
 .navbar li { display:flex; min-width:8em; padding:0 1rem; justify-content:center; align-items:center; }
+.navbar .site-identity { gap:.65rem; padding:0 1.35rem; }
 .navbar a { color:#782638; }
 .navbar a.active { color:#501824; }
 

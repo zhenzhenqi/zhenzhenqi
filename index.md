@@ -8,7 +8,7 @@ title: Zhenzhen Qi
 
 <header>
   <nav class="navbar">
-    <ul><li><a class="active" href="{{ '/' | relative_url }}">Zhenzhen Qi</a>, <a href="{{ '/about.html' | relative_url }}">CV</a></li></ul>
+    <ul><li class="site-identity"><a class="active" href="{{ '/' | relative_url }}">Zhenzhen Qi</a><span aria-hidden="true">|</span><a href="{{ '/about.html' | relative_url }}">CV</a></li></ul>
   </nav>
 </header>
 
