@@ -4,7 +4,9 @@ title: "Collaborative Narrative with AI"
 permalink: /teaching/collaborative_narrative_with_ai/
 ---
 
-Aug 25 - Dec 5, 2025
+Spring 2026: Jan 20, 2026–May 1, 2026
+
+Fall 2025: Aug 25–Dec 5, 2025
 
 Faculty: Zhenzhen Qi
 
