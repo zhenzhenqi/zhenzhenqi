@@ -43,7 +43,7 @@ Weekly Assignment 50%
 Final Project Presentation and Documentation 10%
 
 <h3>Weekly Assignment</h3>
-Each week, students will have a homework assignment consisting of a small coding exploration. Each coding assignment will have a specific design objective that students will implement through code. To help students prepare, instructors will lead hands-on exercises in class, allowing students to practice these objectives before the homework is due.
+Each week, students will have a homework assignment consisting of a small art, design and/or coding exploration. Each coding assignment will have a specific design objective that students will implement through code. To help students prepare, instructors will lead hands-on exercises in class, allowing students to practice these objectives before the homework is due.
 To submit their work, students should upload the URL to HuskyCT before the start of the next lecture period.
 In addition to submitting their code, students have the option to use their submission blog to review suggested New Media Art and Game Design textbooks, artists, and to brainstorm their thoughts and inspirations.
 In order to receive full credit, the assignment must be submitted prior to the due date specified on HuskyCT. The submitted code should build upon the concepts and materials covered in class. Students should make visible changes to demonstrate their understanding and apply their best effort to debug any errors. The final version of the code must clearly showcase the week's specific learning objective. 
