@@ -100,11 +100,15 @@ The code URL
 <h3>Selected Student Works</h3>
 [AI SHITERU](https://www.lauren-palumbo.com/gamedev/ai-shiteru), by Lauren Palumbo, explores the concept of an AI reliant on the user—the reverse of the current life-narrative of humans becoming reliant on AI. Teru is a loving anime-inspired character powered by OpenAI’s ChatGPT. Users can talk to him and interact with him in any way they’d like. AI SHITERU takes inspiration from Tamagotchi games as well as ‘otome’ games— Japanese dating simulators and visual novels targeted towards women. It is created in Unity Engine 5 using an OpenAI Plugin by Sercan Altundas. The program works by prompting the AI to return outputs as a JSON object, which the game script parses and triggers certain actions based on the returned strings and booleans. AI SHITERU is commentary about the human-AI relationship. Many people have begun to use AI as emotional companions or role-playing characters that they become emotionally reliant on. AI SHITERU reversed the role of the human reliant on AI to an AI reliant on humans. Teru is obsessive, overly-loving, and hyper-validating. 
 <img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai1-interface.png' | relative_url }}" alt="Pink Tamagotchi-style AI character interface with hunger and love meters, interaction buttons, and chat history">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/stitched-expressions-horizontal.png' | relative_url }}" alt="Six illustrated emotional expressions for an AI character arranged horizontally">
 <br>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/stitched-expressions-horizontal.png' | relative_url }}" alt="Six illustrated emotional expressions for an AI character arranged horizontally"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/valoris-start-screen.png' | relative_url }}" alt="Start screen for Valoris by Ryan Cohult, featuring a castle above pink and blue terrain"></p>
-<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai2.png" alt="interface screenshot"></p>
+
+[Valoris]()by Ryan Cohut, combines classic text-adventure game with modern AI models to create a freedom-heavy DnD-style game experience where the player is given total control over their actions, words, and future. The designed used a combination of HTML, CSS, JavaScript, JSON, and Ollama to achieve this, by having multiple different LLMs with different functions act together as a Dungeon Master. 
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/valoris-start-screen.png' | relative_url }}" alt="Start screen for Valoris by Ryan Cohult, featuring a castle above pink and blue terrain">
+<img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai2.png" alt="interface screenshot">
+<br>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai3.jpg" alt="interface screenshot"></p>
+<br>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai4.gif" alt="interface screenshot"></p>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/blueprint-event-graph-redacted.png' | relative_url }}" alt="Unreal Engine Blueprint event graph connecting an AI-controlled character, chat messages, and response handling; API credentials redacted"></p>
