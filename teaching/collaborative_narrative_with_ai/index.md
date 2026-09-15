@@ -99,7 +99,6 @@ The code URL
 
 <h3>Selected Student Works</h3>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai1.png" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai1-character-states.png' | relative_url }}" alt="Six illustrated emotional states for an AI character"></p>
 <p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/valoris-start-screen.png' | relative_url }}" alt="Start screen for Valoris by Ryan Cohult, featuring a castle above pink and blue terrain"></p>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai2.png" alt="interface screenshot"></p>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai3.jpg" alt="interface screenshot"></p>
