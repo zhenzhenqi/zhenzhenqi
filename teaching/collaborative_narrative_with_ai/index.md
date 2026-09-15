@@ -14,17 +14,26 @@ Faculty: Zhenzhen Qi
 
 <h3>Course Description</h3>
 
-Generative AI is reorienting storytelling, opening up opportunities for dynamic, user-driven narratives in games, web platforms, interactive films, and comics. This course equips artists and designers to harness the creative potential of Large Language Models (LLMs) while critically addressing their technical and ethical challenges. Through creative writing, critical discourse, and hands-on workshops, students will learn to transform linear narratives into interactive, open-ended, generative experiences and publish them across web, mobile and desktop platforms. No prior background needed. Open to college juniors and seniors, and graduate students. 
+Generative AI is reorienting storytelling, opening up opportunities for dynamic, user-driven narratives in games, web platforms, interactive films, and comics. This course equips artists and designers to harness the creative potential of Large Language Models (LLMs) while critically addressing their technical and ethical challenges.
+
+This course is ideal for web and game designers curious about LLM integration, as well as self-driven 2D and 3D artists interested in learning how to incorporate their art into dynamic, interactive environments catalyzed by AI. Web and game design students will be paired with 2D and 3D art students based on mutual artistic and technical interests.
+
+Through digital art, creative writing, critical discourse, and coding workshops, students will learn to transform linear narratives into interactive, open-ended, generative experience. No prior coding background is needed. Open to college juniors, seniors, and graduate students in 2D/3D art, web design, and game design.
 
 
 <h3>Course Goals and Objectives</h3>
-Creative Adaptation: Convert linear scripts into open-ended, LLM-enabled narratives using real-time exchanges and prompt engineering and user-input frameworks.
 
-Technical Integration: Integrate AI assisted workflows (OpenAI, Anthropic, Gemini, or locally hosted models) to embed LLMs into games and interactive media.
+**Creative Adaptation & Character Design:** Transform static character concepts and linear scripts into interactive, open-ended experiences using prompt engineering, persona building, and dynamic user-input frameworks.
 
-Ethical Design: Navigate questions of authorship, bias, and transparency in AI-generated content. 
+**Open-Source & API Workflows:** Curate custom datasets to fine-tune open-weight models and integrate commercial APIs (OpenAI, Anthropic, Gemini) into web and game engine pipelines.
 
-Build a Foundation for Further Study: Produce Artist Statement and technical documentation that clearly articulate the conceptual and practical significance of AI in a creative interactive experience. Develop the necessary foundational knowledge for further coursework and project work in game development, web design, and interactive media integrating LLMs. 
+**Visual & Animation Integration:** Parse structured model outputs (JSON) to trigger 2D/3D animation states, emotional behaviors, and idle chatter within real-time engines (Javascript, Unity 6, Unreal Engine 5, etc).
+
+**Cross-Disciplinary Collaboration:** Partner across artist-developer to establish shared pipelines, bridge visual storytelling with system architecture, and co-design interaction specifications (JSON schemas, animation state triggers, and prompt contracts).
+
+**Ethical Design & Critical Practice:** Navigate core questions of artist authorship, training data ethics, bias, and transparency in generative media.
+
+**Portfolio & Professional Practice:** Produce a fully realized interactive prototype accompanied by an Artist Statement and Pipeline Documentation framing the conceptual and technical significance of the work.
 
 
 <h3>Grading Structure</h3>
