@@ -64,38 +64,38 @@ The code URL
 
 <h3>Weekly Synopsis</h3>
 
-| ***Week*** | ***Day*** | ***Date*** | ***Topic*** | ***Notes*** |
-| ---------- | --------- | ---------- | ----------- | ----------- |
-| 1 | Tuesday | 1/19/2027 | Course Intro | |
-| | Thursday | 1/21/2027 | Machine Learning Fundamentals | |
-| 2 | Tuesday | 1/26/2027 | Explore Hugging Face: Download & Run Pre-trained Models. Dataset curation | |
-| | Thursday | 1/28/2027 | Fine-Tuning & Evaluation: LoRA, Adapters, & Benchmark Testing | |
-| 3 | Tuesday | 2/2/2027 | Design a Tamagotchi character. Host a static Tamagotchi website | Add/Drop ends |
-| | Thursday | 2/4/2027 | Design a Tamagotchi character. Host a static Tamagotchi website | |
-| 4 | Tuesday | 2/9/2027 | Design user input and tamagotchi response. Link up OpenAI API | |
-| | Thursday | 2/11/2027 | Design user input and tamagotchi response. Display Chat history | |
-| 5 | Tuesday | 2/16/2027 | Design tamagotchi animation states. Implement LLM Plugin for UE5 | |
-| | Thursday | 2/18/2027 | Design tamagotchi animation states. Implement LLM Plugin for Unity6 | |
-| 6 | Tuesday | 2/23/2027 | Design NPCs. Parse JSON to control animation state | |
-| | Thursday | 2/25/2027 | Design NPCs. Use in-game events to generate conversation history & Idle Chatter | |
-| 7 | Tuesday | 3/2/2027 | Design game environments. Stable Diffusion | |
-| | Thursday | 3/4/2027 | Design game environments. Alternative models of AI, distributed and collective intelligence, etc. | |
-| 8 | Tuesday | 3/9/2027 | Midterm Critique Day 1 | |
-| | Thursday | 3/11/2027 | Midterm Critique Day 2 | |
-| 9 | Tuesday | 3/16/2027 | Spring Recess. Class Does Not Meet. | |
-| | Thursday | 3/18/2027 | Spring Recess. Class Does Not Meet. | |
-| 10 | Tuesday | 3/23/2027 | FP Prototype 1 | |
-| | Thursday | 3/25/2027 | FP Prototype 1 | |
-| 11 | Tuesday | 3/30/2027 | FP Prototype 2 | |
-| | Thursday | 4/1/2027 | FP Prototype 2 | |
-| 12 | Tuesday | 4/6/2027 | FP Prototype 3 | |
-| | Thursday | 4/8/2027 | FP Prototype 3 | |
-| 13 | Tuesday | 4/13/2027 | FP Prototype 4 | |
-| | Thursday | 4/15/2027 | FP Prototype 4 | |
-| 14 | Tuesday | 4/20/2027 | FP Prototype 5 | |
-| | Thursday | 4/22/2027 | FP Prototype 5 | |
-| 15 | Tuesday | 4/27/2027 | Final Critique Day 1 | |
-| | Thursday | 4/29/2027 | Final Critique Day 2 | |
+| ***Week*** | ***Day*** | ***Date*** | ***Topic*** |
+| ---------- | --------- | ---------- | ----------- |
+| 1 | Tuesday | 1/19/2027 | Course Intro |
+| | Thursday | 1/21/2027 | Machine Learning Fundamentals |
+| 2 | Tuesday | 1/26/2027 | Explore Hugging Face: Download & Run Pre-trained Models. Dataset curation |
+| | Thursday | 1/28/2027 | Fine-Tuning & Evaluation: LoRA, Adapters, & Benchmark Testing |
+| 3 | Tuesday | 2/2/2027 | Design a Tamagotchi character. Host a static Tamagotchi website |
+| | Thursday | 2/4/2027 | Design a Tamagotchi character. Host a static Tamagotchi website |
+| 4 | Tuesday | 2/9/2027 | Design user input and tamagotchi response. Link up OpenAI API |
+| | Thursday | 2/11/2027 | Design user input and tamagotchi response. Display Chat history |
+| 5 | Tuesday | 2/16/2027 | Design tamagotchi animation states. Implement LLM Plugin for UE5 |
+| | Thursday | 2/18/2027 | Design tamagotchi animation states. Implement LLM Plugin for Unity6 |
+| 6 | Tuesday | 2/23/2027 | Design NPCs. Parse JSON to control animation state |
+| | Thursday | 2/25/2027 | Design NPCs. Use in-game events to generate conversation history & Idle Chatter |
+| 7 | Tuesday | 3/2/2027 | Design game environments. Stable Diffusion |
+| | Thursday | 3/4/2027 | Design game environments. Alternative models of AI, distributed and collective intelligence, etc. |
+| 8 | Tuesday | 3/9/2027 | Midterm Critique Day 1 |
+| | Thursday | 3/11/2027 | Midterm Critique Day 2 |
+| 9 | Tuesday | 3/16/2027 | Spring Recess. Class Does Not Meet. |
+| | Thursday | 3/18/2027 | Spring Recess. Class Does Not Meet. |
+| 10 | Tuesday | 3/23/2027 | FP Prototype 1 |
+| | Thursday | 3/25/2027 | FP Prototype 1 |
+| 11 | Tuesday | 3/30/2027 | FP Prototype 2 |
+| | Thursday | 4/1/2027 | FP Prototype 2 |
+| 12 | Tuesday | 4/6/2027 | FP Prototype 3 |
+| | Thursday | 4/8/2027 | FP Prototype 3 |
+| 13 | Tuesday | 4/13/2027 | FP Prototype 4 |
+| | Thursday | 4/15/2027 | FP Prototype 4 |
+| 14 | Tuesday | 4/20/2027 | FP Prototype 5 |
+| | Thursday | 4/22/2027 | FP Prototype 5 |
+| 15 | Tuesday | 4/27/2027 | Final Critique Day 1 |
+| | Thursday | 4/29/2027 | Final Critique Day 2 |
 
 <h3>Selected Student Works</h3>
 [AI SHITERU](https://www.lauren-palumbo.com/gamedev/ai-shiteru), by Lauren Palumbo, explores the concept of an AI reliant on the user—the reverse of the current life-narrative of humans becoming reliant on AI. Teru is a loving anime-inspired character powered by OpenAI’s ChatGPT. Users can talk to him and interact with him in any way they’d like. AI SHITERU takes inspiration from Tamagotchi games as well as ‘otome’ games— Japanese dating simulators and visual novels targeted towards women. It is created in Unity Engine 5 using an OpenAI Plugin by Sercan Altundas. The program works by prompting the AI to return outputs as a JSON object, which the game script parses and triggers certain actions based on the returned strings and booleans. AI SHITERU is commentary about the human-AI relationship. Many people have begun to use AI as emotional companions or role-playing characters that they become emotionally reliant on. AI SHITERU reversed the role of the human reliant on AI to an AI reliant on humans. Teru is obsessive, overly-loving, and hyper-validating. 
