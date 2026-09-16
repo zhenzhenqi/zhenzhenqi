@@ -10,7 +10,7 @@ title: Zhenzhen Qi
   <nav class="navbar">
     <div class="site-header">
       <div class="site-identity"><a class="active" href="{{ '/' | relative_url }}">Zhenzhen Qi</a><span aria-hidden="true">|</span><a href="{{ '/about.html' | relative_url }}">CV</a></div>
-      <p class="header-summary">Research and Teaching, 08/2023 - 06/2026</p>
+      <p class="header-summary">Selected Research and Teaching, 08/2023 - 06/2026</p>
     </div>
   </nav>
 </header>
