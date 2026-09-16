@@ -114,8 +114,12 @@ The code URL
 <img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai4.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async">
 <br>
 
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai-game.jpg' | relative_url }}" alt="Third-person game scene showing a character walking through a grassy landscape beside a lake" loading="lazy" decoding="async"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/blueprint-event-graph-redacted.webp' | relative_url }}" alt="Unreal Engine Blueprint event graph connecting an AI-controlled character, chat messages, and response handling; API credentials redacted" loading="lazy" decoding="async"></p>
+*Whisper*, by [Faith Colello](https://www.faithcolello.com/), is a poetic environment that players could explore as the weather and atmosphere changed around them. As the player walks through different zones, they encounter shifting seasons, lighting, and mood while being guided by an in‑world narrator powered by ChatGPT that generates commentary responding to the landscape.
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai-game.jpg' | relative_url }}" alt="Third-person game scene showing a character walking through a grassy landscape beside a lake" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/blueprint-event-graph-redacted.webp' | relative_url }}" alt="Unreal Engine Blueprint event graph connecting an AI-controlled character, chat messages, and response handling; API credentials redacted" loading="lazy" decoding="async">
+<br>
+
+*To Sway an Emperor*, by [Ryan DeFilippo](https://www.linkedin.com/in/ryandefilippo/),  is an experience in Unreal Engine 5.4.4 that combines traditional worldbuilding and storytelling with a LLM chatbot to create an immersive, ever-changing experience. A mysterious character, whose strength far exceeded those of his family members, abandoned them. The only way to defeat him was through conversation.
 <p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai7.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async"></p>
 <p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/entry.webp' | relative_url }}" alt="Animated game scene of figures moving toward a glowing doorway in a futuristic environment" loading="lazy" decoding="async"></p>
