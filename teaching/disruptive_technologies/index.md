@@ -78,3 +78,6 @@ As part of our ongoing research in the development of interactive experiences an
 <img src="{{ '/assets/imported/teaching/disruptive_technologies/m2.jpg' | relative_url }}" alt="Virtual view through stained-glass windows toward a mosque courtyard and golden dome" loading="lazy" decoding="async">
 <img src="{{ '/assets/imported/teaching/disruptive_technologies/m3.jpg' | relative_url }}" alt="Immersive architectural interior with ornate mosaic surfaces and colorful stained-glass windows" loading="lazy" decoding="async">
 <img src="{{ '/assets/imported/teaching/disruptive_technologies/m4.jpg' | relative_url }}" alt="Unity editor showing the development of a virtual room with patterned carpet and stained-glass windows" loading="lazy" decoding="async">
+<br>
+*Artifacts of Memory*, by [Kayla Tang](https://kaylatang.com/about) and [Quynh Ngo](https://quynhngo.com/about), is a VR museum that honors the everyday things that carry the memories, love, and struggles of the artists, both children of immigrants. In immigrant families, art isn’t framed—it’s lived, used, and passed down. Everyday objects become symbols of resilience, memory, and identity: tiger balm, a stack of red envelopes, a cookie tin of sewing supplies. 
+
