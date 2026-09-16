@@ -121,6 +121,6 @@ The code URL
 <br>
 
 *To Sway an Emperor*, by [Ryan DeFilippo](https://www.linkedin.com/in/ryandefilippo/),  is an experience in Unreal Engine 5.4.4 that combines traditional worldbuilding and storytelling with a LLM chatbot to create an immersive, ever-changing experience. A mysterious character, whose strength far exceeded those of his family members, abandoned them. The only way to defeat him was through conversation.
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai7.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/entry.webp' | relative_url }}" alt="Animated game scene of figures moving toward a glowing doorway in a futuristic environment" loading="lazy" decoding="async"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/throne-room.png' | relative_url }}" alt="Futuristic throne room illuminated by blue light, with a character standing before a glowing throne" loading="lazy" decoding="async"></p>
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai7.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/entry.webp' | relative_url }}" alt="Animated game scene of figures moving toward a glowing doorway in a futuristic environment" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/throne-room.png' | relative_url }}" alt="Futuristic throne room illuminated by blue light, with a character standing before a glowing throne" loading="lazy" decoding="async">
