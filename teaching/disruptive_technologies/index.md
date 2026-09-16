@@ -19,6 +19,12 @@ By the end of the course, students should have achieved the following objectives
 
 **Graduate Level:** At the graduate level, students will develop a research statement that clearly defines their research goals and intentions within the field of interactive media art and design. This statement will serve as a foundation for academic and professional pursuits, and it will engage with major international art and technology awards, platforms, and opportunities to situate their work within the broader contemporary landscape.
 
+<h3>Selected Student Works</h3>
+<p><img src="{{ '/assets/imported/teaching/disruptive_technologies/m1.jpg' | relative_url }}" alt="Immersive virtual environment featuring rows of vintage televisions displaying archival imagery" loading="lazy" decoding="async"></p>
+<p><img src="{{ '/assets/imported/teaching/disruptive_technologies/m2.jpg' | relative_url }}" alt="Virtual view through stained-glass windows toward a mosque courtyard and golden dome" loading="lazy" decoding="async"></p>
+<p><img src="{{ '/assets/imported/teaching/disruptive_technologies/m3.jpg' | relative_url }}" alt="Immersive architectural interior with ornate mosaic surfaces and colorful stained-glass windows" loading="lazy" decoding="async"></p>
+<p><img src="{{ '/assets/imported/teaching/disruptive_technologies/m4.jpg' | relative_url }}" alt="Unity editor showing the development of a virtual room with patterned carpet and stained-glass windows" loading="lazy" decoding="async"></p>
+
 ## Textbooks
 
 All reading materials will be made available via hyperlinks through this syllabus via Weekly Agenda section, under the weeks when they are assigned. Students are welcome to compliment assigned readings with additional reading materials based on individual interests, but it is not required.
