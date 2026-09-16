@@ -114,6 +114,7 @@ The code URL
 <img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai4.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async">
 <br>
 
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai-game.jpg' | relative_url }}" alt="Third-person game scene showing a character walking through a grassy landscape beside a lake" loading="lazy" decoding="async"></p>
 <p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async"></p>
 <p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/blueprint-event-graph-redacted.webp' | relative_url }}" alt="Unreal Engine Blueprint event graph connecting an AI-controlled character, chat messages, and response handling; API credentials redacted" loading="lazy" decoding="async"></p>
 <p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai7.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async"></p>
