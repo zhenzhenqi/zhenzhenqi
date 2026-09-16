@@ -99,22 +99,22 @@ The code URL
 
 <h3>Selected Student Works</h3>
 [AI SHITERU](https://www.lauren-palumbo.com/gamedev/ai-shiteru), by Lauren Palumbo, explores the concept of an AI reliant on the user—the reverse of the current life-narrative of humans becoming reliant on AI. Teru is a loving anime-inspired character powered by OpenAI’s ChatGPT. Users can talk to him and interact with him in any way they’d like. AI SHITERU takes inspiration from Tamagotchi games as well as ‘otome’ games— Japanese dating simulators and visual novels targeted towards women. It is created in Unity Engine 5 using an OpenAI Plugin by Sercan Altundas. The program works by prompting the AI to return outputs as a JSON object, which the game script parses and triggers certain actions based on the returned strings and booleans. AI SHITERU is commentary about the human-AI relationship. Many people have begun to use AI as emotional companions or role-playing characters that they become emotionally reliant on. AI SHITERU reversed the role of the human reliant on AI to an AI reliant on humans. Teru is obsessive, overly-loving, and hyper-validating. 
-<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai1-interface.png' | relative_url }}" alt="Pink Tamagotchi-style AI character interface with hunger and love meters, interaction buttons, and chat history">
-<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/stitched-expressions-horizontal.png' | relative_url }}" alt="Six illustrated emotional expressions for an AI character arranged horizontally">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai1-interface.webp' | relative_url }}" alt="Pink Tamagotchi-style AI character interface with hunger and love meters, interaction buttons, and chat history" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/stitched-expressions-horizontal.webp' | relative_url }}" alt="Six illustrated emotional expressions for an AI character arranged horizontally" loading="lazy" decoding="async">
 <br>
 
 *Valoris*, by [Ryan Cohut](https://www.ryancohutt.com/), combines classic text-adventure game with modern AI models to create a freedom-heavy DnD-style game experience where the player is given total control over their actions, words, and future. The designed used a combination of HTML, CSS, JavaScript, JSON, and Ollama to achieve this, by having multiple different LLMs with different functions act together as a Dungeon Master. 
-<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/valoris-start-screen.png' | relative_url }}" alt="Start screen for Valoris by Ryan Cohult, featuring a castle above pink and blue terrain">
-<img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai2.png" alt="interface screenshot">
-<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ClassFigures.png' | relative_url }}" alt="Five pixel-art fantasy character designs, including a sword fighter, archer, mage, musician, and rogue">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/valoris-start-screen.png' | relative_url }}" alt="Start screen for Valoris by Ryan Cohult, featuring a castle above pink and blue terrain" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai2.png' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ClassFigures.png' | relative_url }}" alt="Five pixel-art fantasy character designs, including a sword fighter, archer, mage, musician, and rogue" loading="lazy" decoding="async">
 <br>
 
 *Rap Rumble Ruckus*, by [Sam Victoria](https://www.linkedin.com/in/samuel-victoria-gamedesign/), is a short party game in which  players battle Jeremiah Winkleworth, who is powered by ChatGPT-4. The game utilizes a 3rd party API created by srcnalt to communicate with OpenAI's platform. Jeremiah will respond to the player's verse using the player's profile information to make comebacks and create a more immersive rap experience.
-<img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai3.jpg" alt="interface screenshot">
-<img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai4.gif" alt="interface screenshot">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai3.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai4.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async">
 <br>
 
-<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/blueprint-event-graph-redacted.png' | relative_url }}" alt="Unreal Engine Blueprint event graph connecting an AI-controlled character, chat messages, and response handling; API credentials redacted"></p>
-<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai7.png" alt="interface screenshot"></p>
-<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/entry.gif' | relative_url }}" alt="Animated game scene of figures moving toward a glowing doorway in a futuristic environment"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/blueprint-event-graph-redacted.webp' | relative_url }}" alt="Unreal Engine Blueprint event graph connecting an AI-controlled character, chat messages, and response handling; API credentials redacted" loading="lazy" decoding="async"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ai7.webp' | relative_url }}" alt="interface screenshot" loading="lazy" decoding="async"></p>
+<p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/entry.webp' | relative_url }}" alt="Animated game scene of figures moving toward a glowing doorway in a futuristic environment" loading="lazy" decoding="async"></p>
