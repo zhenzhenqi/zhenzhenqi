@@ -106,6 +106,7 @@ The code URL
 [Valoris]()by Ryan Cohut, combines classic text-adventure game with modern AI models to create a freedom-heavy DnD-style game experience where the player is given total control over their actions, words, and future. The designed used a combination of HTML, CSS, JavaScript, JSON, and Ollama to achieve this, by having multiple different LLMs with different functions act together as a Dungeon Master. 
 <img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/valoris-start-screen.png' | relative_url }}" alt="Start screen for Valoris by Ryan Cohult, featuring a castle above pink and blue terrain">
 <img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai2.png" alt="interface screenshot">
+<img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ClassFigures.png' | relative_url }}" alt="Five pixel-art fantasy character designs, including a sword fighter, archer, mage, musician, and rogue">
 <br>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai3.jpg" alt="interface screenshot"></p>
 <br>
