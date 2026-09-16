@@ -103,14 +103,17 @@ The code URL
 <img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/stitched-expressions-horizontal.png' | relative_url }}" alt="Six illustrated emotional expressions for an AI character arranged horizontally">
 <br>
 
-[Valoris]()by Ryan Cohut, combines classic text-adventure game with modern AI models to create a freedom-heavy DnD-style game experience where the player is given total control over their actions, words, and future. The designed used a combination of HTML, CSS, JavaScript, JSON, and Ollama to achieve this, by having multiple different LLMs with different functions act together as a Dungeon Master. 
+*Valoris*, by [Ryan Cohut](https://www.ryancohutt.com/), combines classic text-adventure game with modern AI models to create a freedom-heavy DnD-style game experience where the player is given total control over their actions, words, and future. The designed used a combination of HTML, CSS, JavaScript, JSON, and Ollama to achieve this, by having multiple different LLMs with different functions act together as a Dungeon Master. 
 <img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/valoris-start-screen.png' | relative_url }}" alt="Start screen for Valoris by Ryan Cohult, featuring a castle above pink and blue terrain">
 <img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai2.png" alt="interface screenshot">
 <img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/ClassFigures.png' | relative_url }}" alt="Five pixel-art fantasy character designs, including a sword fighter, archer, mage, musician, and rogue">
 <br>
-<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai3.jpg" alt="interface screenshot"></p>
+
+*Rap Rumble Ruckus*, by [Sam Victoria](https://www.linkedin.com/in/samuel-victoria-gamedesign/), is a short party game in which  players battle Jeremiah Winkleworth, who is powered by ChatGPT-4. The game utilizes a 3rd party API created by srcnalt to communicate with OpenAI's platform. Jeremiah will respond to the player's verse using the player's profile information to make comebacks and create a more immersive rap experience.
+<img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai3.jpg" alt="interface screenshot">
+<img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai4.gif" alt="interface screenshot">
 <br>
-<p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai4.gif" alt="interface screenshot"></p>
+
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai6.webp" alt="interface screenshot"></p>
 <p><img src="{{ '/assets/imported/teaching/collaborative_narrative_with_ai/blueprint-event-graph-redacted.png' | relative_url }}" alt="Unreal Engine Blueprint event graph connecting an AI-controlled character, chat messages, and response handling; API credentials redacted"></p>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/teaching/collaborative_narrative_with_ai/ai7.png" alt="interface screenshot"></p>
