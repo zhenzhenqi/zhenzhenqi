@@ -19,11 +19,6 @@ By the end of the course, students should have achieved the following objectives
 
 **Graduate Level:** At the graduate level, students will develop a research statement that clearly defines their research goals and intentions within the field of interactive media art and design. This statement will serve as a foundation for academic and professional pursuits, and it will engage with major international art and technology awards, platforms, and opportunities to situate their work within the broader contemporary landscape.
 
-<h3>Selected Student Works</h3>
-<p><img src="{{ '/assets/imported/teaching/disruptive_technologies/m1.jpg' | relative_url }}" alt="Immersive virtual environment featuring rows of vintage televisions displaying archival imagery" loading="lazy" decoding="async"></p>
-<p><img src="{{ '/assets/imported/teaching/disruptive_technologies/m2.jpg' | relative_url }}" alt="Virtual view through stained-glass windows toward a mosque courtyard and golden dome" loading="lazy" decoding="async"></p>
-<p><img src="{{ '/assets/imported/teaching/disruptive_technologies/m3.jpg' | relative_url }}" alt="Immersive architectural interior with ornate mosaic surfaces and colorful stained-glass windows" loading="lazy" decoding="async"></p>
-<p><img src="{{ '/assets/imported/teaching/disruptive_technologies/m4.jpg' | relative_url }}" alt="Unity editor showing the development of a virtual room with patterned carpet and stained-glass windows" loading="lazy" decoding="async"></p>
 
 ## Textbooks
 
@@ -76,3 +71,10 @@ If you need to access the desktop for project development purposes, please email
 ### VR Gaming Studio
 
 As part of our ongoing research in the development of interactive experiences and applications for virtual and mixed reality software, this full-sized gaming play space and lab is equipped with a VR-ready PC, three HTC Vive headsets, two Oculus Rift headsets, two Leap Motion hand controllers, and Arduinos that connect via plugin to the Unity3d development environment, all available for students. An additional user research booth, equipped with cameras, gives students access to modern consoles, an archive of digital games to research, and space to conduct user tests. There are also hundreds of videogames accessible via DMD Steam account installed on the desktop computer. For access, email technical manager Michael Toomey at [michael.toomey@uconn.edu](mailto:michael.toomey@uconn.edu).
+
+<h3>Selected Student Works</h3>
+*Unframed Realities*，by [Mojammad Edalati Tabrizi](https://mohammadedalati.com/), is an interactive virtual reality (VR) experience designed to challenge media-driven cultural biases through immersive digital storytelling. Built using Unity and Cinema 4D, the project guides users through two stages: a dim media corridor with TVs amplifying biased American film and news clips, and a pentagonal room revealing 360-degree views of landmarks like Persepolis and Naqsh-e Jahan Square, accompanied by Persian music and ambient sounds. These stages contrast distorted portrayals with authentic narratives, using VR’s spatial audio and visuals to foster empathy.
+<img src="{{ '/assets/imported/teaching/disruptive_technologies/m1.jpg' | relative_url }}" alt="Immersive virtual environment featuring rows of vintage televisions displaying archival imagery" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/disruptive_technologies/m2.jpg' | relative_url }}" alt="Virtual view through stained-glass windows toward a mosque courtyard and golden dome" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/disruptive_technologies/m3.jpg' | relative_url }}" alt="Immersive architectural interior with ornate mosaic surfaces and colorful stained-glass windows" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/disruptive_technologies/m4.jpg' | relative_url }}" alt="Unity editor showing the development of a virtual room with patterned carpet and stained-glass windows" loading="lazy" decoding="async">
