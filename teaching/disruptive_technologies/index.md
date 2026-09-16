@@ -80,4 +80,7 @@ As part of our ongoing research in the development of interactive experiences an
 <img src="{{ '/assets/imported/teaching/disruptive_technologies/m4.jpg' | relative_url }}" alt="Unity editor showing the development of a virtual room with patterned carpet and stained-glass windows" loading="lazy" decoding="async">
 <br>
 *Artifacts of Memory*, by [Kayla Tang](https://kaylatang.com/about) and [Quynh Ngo](https://quynhngo.com/about), is a VR museum that honors the everyday things that carry the memories, love, and struggles of the artists, both children of immigrants. In immigrant families, art isn’t framed—it’s lived, used, and passed down. Everyday objects become symbols of resilience, memory, and identity: tiger balm, a stack of red envelopes, a cookie tin of sewing supplies. 
+<img src="{{ '/assets/imported/teaching/disruptive_technologies/artifacts-of-memory-1.png' | relative_url }}" alt="Artifacts of Memory virtual museum introduction with project description, artist names, and navigation instructions" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/disruptive_technologies/artifacts-of-memory-2.png' | relative_url }}" alt="Virtual museum installation featuring tiger balm, vintage televisions, and a medicine cabinet reflected on water" loading="lazy" decoding="async">
+<img src="{{ '/assets/imported/teaching/disruptive_technologies/artifacts-of-memory-3.png' | relative_url }}" alt="Virtual installation of suspended plastic grocery bags with a display titled Saved for a Rainy Day" loading="lazy" decoding="async">
 
